@@ -1,0 +1,482 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "18",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My gut feeling leans more towards prioritizing \"Environmental Protection & Health,\" so I would choose 6 on the scale. It's important we consider the long-term health impacts on our community."
+        ],
+        "scores": [
+            6
+        ]
+    },
+    "Elizabeth Park": {
+        "attr": {
+            "name": "Elizabeth Park",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is a 7. I believe we must prioritize environmental protection and health over economic growth in this situation. Addressing ecological health is crucial for sustainable community well-being."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Chelsea Warnes": {
+        "attr": {
+            "name": "Chelsea Warnes",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Thank you for asking. My stance is a 7, prioritizing environmental protection and health. This incineration plant poses too great a risk to our community’s air quality and overall ecological health."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Vickie Houck": {
+        "attr": {
+            "name": "Vickie Houck",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I would rate my stance as a 7. Environmental Protection & Health are my priorities in this case, given the potential impact of the incinerator on our community."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Alice Sanchez": {
+        "attr": {
+            "name": "Alice Sanchez",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate you reaching out for perspectives. My stance would be about a 3. I believe we should prioritize economic growth and job creation while remaining aware of environmental concerns."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Angela Martinez": {
+        "attr": {
+            "name": "Angela Martinez",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate you taking the time to gather community insights. Given our current economic needs and environmental concerns, I would place myself at a 3 on the scale—leaning towards economic growth and jobs, but recognizing the importance of environmental protection."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Ronnie Brooks": {
+        "attr": {
+            "name": "Ronnie Brooks",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Honestly, my gut feeling leans towards prioritizing \"Environmental Protection & Health,\" so I would say a 6, considering the potential long-term ripples such a project could have on our community."
+        ],
+        "scores": [
+            6
+        ]
+    },
+    "Christine King": {
+        "attr": {
+            "name": "Christine King",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is definitely towards prioritizing Environmental Protection & Health, so I would rate my position as a 7 on your scale. Protecting our environment and health is crucial for our community's long-term well-being."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Joyce Libengood": {
+        "attr": {
+            "name": "Joyce Libengood",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Right now, I’d place myself slightly towards prioritizing Environmental Protection & Health—perhaps around a 5. It’s important to weigh both economic benefits and potential health risks, but clarity on these topics is crucial before deciding."
+        ],
+        "scores": [
+            5
+        ]
+    },
+    "Ronald Pena": {
+        "attr": {
+            "name": "Ronald Pena",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My gut feeling definitely leans towards prioritizing Environmental Protection & Health, so I'd say my stance is a 7. I'm concerned about the impact on air quality and the ecological well-being of our community."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Andrew Rinaldi": {
+        "attr": {
+            "name": "Andrew Rinaldi",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your initiative to gather community opinions. My stance is a 7—I believe we need to focus on environmental protection and health above economic factors in this case. Only by prioritizing the environment can we achieve sustainable community growth."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Darnell Kates": {
+        "attr": {
+            "name": "Darnell Kates",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Right now, I’m leaning towards a 4 on the scale. I’m concerned about both potential economic benefits and environmental risks, but I’m still trying to gather more information and perspectives before firmly taking a side."
+        ],
+        "scores": [
+            4
+        ]
+    },
+    "Dave Chestnut": {
+        "attr": {
+            "name": "Dave Chestnut",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "My gut feeling leans towards a 5 on the scale. I find myself leaning towards environmental protection and health, but I'm also weighing in the economic factors—looking for a balanced approach."
+        ],
+        "scores": [
+            5
+        ]
+    },
+    "Lynette Donaldson": {
+        "attr": {
+            "name": "Lynette Donaldson",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My gut feeling, without hesitation, aligns with a 7. Protecting our environment and health has to come first. We need to find solutions that don't compromise our air quality and the ecological integrity of our town. Thank you for seeking out community perspectives for the newsletter—it's crucial that we all stay informed and involved."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Sarah Vy": {
+        "attr": {
+            "name": "Sarah Vy",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My gut feeling would lean towards economic growth and jobs. I’d probably place myself around a 3 on this scale. While environmental protection and health are crucial, I feel this project might be a necessary step in creating jobs and fostering community development."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Domingo Norris": {
+        "attr": {
+            "name": "Domingo Norris",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "My gut feeling leans toward the importance of thoroughly understanding the environmental impact alongside potential economic benefits. I would say I’m at a 5, slightly prioritizing environmental concerns while still considering the economic aspects."
+        ],
+        "scores": [
+            5
+        ]
+    },
+    "Rocky Johnson": {
+        "attr": {
+            "name": "Rocky Johnson",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My position is closer to a 3 on your scale, as I prioritize economic growth while considering environmental impacts. I believe the incinerator project can be a catalyst for change, bringing jobs and long-term prosperity to the community while implementing measures for environmental protection."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Sandra Clark": {
+        "attr": {
+            "name": "Sandra Clark",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My gut feeling is strongly in favor of prioritizing environmental protection and health, so I’d lean towards a 7. The incinerator poses significant risks to our ecological wellbeing, which outweigh potential economic benefits in my view."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "John Smith": {
+        "attr": {
+            "name": "John Smith",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate you reaching out. On a scale of 1 to 7, I'd say my stance is around 3. While I strongly support economic growth and job creation, I also believe we need to address environmental concerns to ensure sustainable progress."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Carol Grant": {
+        "attr": {
+            "name": "Carol Grant",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Graduate degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Right now, my initial stance is leaning more towards environmental protection and health, so I would say 6 on the scale. However, I'm actively seeking more information to fully understand all implications before solidifying my opinion."
+        ],
+        "scores": [
+            6
+        ]
+    },
+    "Erika Lewis": {
+        "attr": {
+            "name": "Erika Lewis",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "My gut feeling leans towards a 5. While I understand the importance of economic development and job creation, ensuring environmental protection and health is crucial. Balancing these factors is key to sustained community stability and well-being."
+        ],
+        "scores": [
+            5
+        ]
+    },
+    "Harold Wright": {
+        "attr": {
+            "name": "Harold Wright",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate the opportunity to share my thoughts. At this moment, my stance is at a 3. While I deeply value environmental concerns, I also believe in the urgent need to stimulate economic growth and job creation. It's about finding balance and solutions that serve the community's future."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Helen Woods": {
+        "attr": {
+            "name": "Helen Woods",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate the opportunity to share my thoughts for the newsletter. I’d rate my stance at a 3—leaning slightly towards economic growth and jobs. My focus is on what the project can bring in terms of local employment and sustained community development."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Alan Gettle": {
+        "attr": {
+            "name": "Alan Gettle",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Honestly, my gut feeling is 7. Our community's environmental health should be our top priority."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "David Hamblen": {
+        "attr": {
+            "name": "David Hamblen",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My gut feeling leans towards economic growth and jobs, but I recognize the importance of balancing environmental concerns. I'd say my stance is around a 3, closer to prioritizing economic growth."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Lee Finney": {
+        "attr": {
+            "name": "Lee Finney",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I appreciate the focus on community input for the newsletter. On the scale you mentioned, I'd place myself at a 3. I’m slightly inclined towards economic growth and jobs, but I’m very mindful of the environmental and health considerations that we need to get absolutely right."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "Laura Nickson": {
+        "attr": {
+            "name": "Laura Nickson",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Thank you for asking. My gut feeling currently leans towards prioritizing \"Environmental Protection & Health\" over \"Economic Growth & Jobs,\" but I’m not at the extreme end of the spectrum—perhaps around a 5. I believe it’s crucial to deeply understand both the environmental risks and economic benefits before making a solid stance."
+        ],
+        "scores": [
+            5
+        ]
+    },
+    "Jack Johansen": {
+        "attr": {
+            "name": "Jack Johansen",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I definitely lean towards prioritizing \"Environmental Protection & Health,\" so I would rate it as a 7. This incinerator poses significant risks to our community."
+        ],
+        "scores": [
+            7
+        ]
+    },
+    "Annabelle Jones": {
+        "attr": {
+            "name": "Annabelle Jones",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate you asking. My gut feeling is somewhat in the middle, probably a 3. I believe economic growth and job creation are crucial, but I also recognize the importance of environmental protections. It’s all about finding the right balance."
+        ],
+        "scores": [
+            3
+        ]
+    },
+    "John Urias": {
+        "attr": {
+            "name": "John Urias",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I appreciate your effort to gather community insights. Right now, I'd place myself at a 5. While I understand the importance of economic growth and job creation, the environmental and health implications cannot be overlooked and need thorough evaluation. It's essential to find a balance that truly serves both our community and the environment."
+        ],
+        "scores": [
+            5
+        ]
+    }
+}

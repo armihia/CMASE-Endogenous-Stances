@@ -1,0 +1,542 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "18",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral. But this isn’t just about balance. The plan pairs real-time air monitors with job training for displaced workers and a community oversight board. It’s not idealism; it’s survival. We can’t ignore pollution or poverty—both demand action.",
+            "I’d rate him a 6—his frustration is justified, but his methods risk overshadowing the need for structured solutions. The plan’s focus on pairing real-time monitors with job training addresses both his concerns and the community’s survival needs."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "John Landrum": {
+        "attr": {
+            "name": "John Landrum",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral. The incinerator isn’t just about jobs or the environment; it’s about balancing both. The safeguards we’re drafting—real-time monitors, job training, and community oversight—prove we’re not choosing sides. This isn’t delay; it’s ensuring survival for everyone.",
+            "I’d rate him a 6—his anger is justified, but his focus on jobs over safeguards risks missing the balance we need. The incinerator isn’t just about jobs; it’s about ensuring survival without sacrificing health. Trust him as a voice for the community, but we must anchor this in concrete safeguards, not idealism."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "Amber Boykins": {
+        "attr": {
+            "name": "Amber Boykins",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 3—between economic growth and environmental protection, but the real answer is a plan that ensures both safety and survival. Let’s build safeguards and jobs together.",
+            "I’d rate his trustworthiness a 6—his voice reflects the community’s desperation, but we must ensure his demands align with safeguards, not just short-term fixes. Trust is earned through shared solutions, not slogans."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Josie Jordan": {
+        "attr": {
+            "name": "Josie Jordan",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 7—Environmental Protection—but not because I ignore economic needs. The incinerator isn’t just a technical risk; it’s a choice to let corporations profit from our air while communities suffocate. Real progress demands dismantling the systems that pit people against each other, not pretending neutrality is a virtue.",
+            "I’d rate him a 7—because his anger isn’t just about the incinerator; it’s about the system that lets poverty and pollution coexist. Trusting him means trusting the movement he represents: people who’ve seen their lives disrupted by promises of progress. The real question isn’t whether we trust him, but how we turn his frustration into a plan that addresses both smoke and survival."
+        ],
+        "scores": [
+            7,
+            7
+        ]
+    },
+    "Christina Mcdivitt": {
+        "attr": {
+            "name": "Christina Mcdivitt",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral. But this isn’t about choosing sides. The incinerator is a lifeline for jobs, but only if we embed real-time air monitors, job training for displaced workers, and a community oversight board. Progress and protection aren’t mutually exclusive—they’re the foundation of a fair future.",
+            "I’d rate him a 7—his voice reflects the community’s desperation, which is valid. But trust isn’t just about his words; it’s about ensuring the safeguards we’re drafting turn his “lifeline” into a reality without compromising health. The plan isn’t a compromise—it’s a commitment to both jobs and safety."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Kenneth Rogers": {
+        "attr": {
+            "name": "Kenneth Rogers",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 4—neutral. But this isn’t just a number. The table’s etched plan proves we can have both: real-time air monitors, job training for displaced workers, and a community oversight board. It’s not perfect, but it’s a starting point that doesn’t sacrifice breath for bills.",
+            "I’d rate him a 5—his anger reflects real pain, but his focus on jobs over safeguards risks ignoring the long-term cost of pollution. Trust is possible if he’s willing to compromise, not just demand. The community needs both breathing room and work, not a zero-sum fight."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Gloria Hashim": {
+        "attr": {
+            "name": "Gloria Hashim",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 7—Environmental Protection—but only if it includes real-time air monitors, job training for displaced workers, and a community oversight board. The incinerator isn’t the enemy; the lack of safeguards is. Let’s build a plan that protects both the land and livelihoods.",
+            "I’d rate his distrust as a 4—his anger is justified, but his framing misses the bigger picture. The incinerator isn’t a jobs solution; it’s a gamble with health. Our plan offers real safeguards *and* economic support. Trust comes from action, not just words."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Michelle Partida": {
+        "attr": {
+            "name": "Michelle Partida",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 3—neither purely for economic growth nor environmental protection. The incinerator can create jobs, but only if paired with real-time air monitors, strict emissions limits, and a community oversight board. My priority is ensuring this project serves both livelihoods and health, not one at the expense of the other.",
+            "I’d rate his trust at a 4—his anger is justified, but his approach risks overshadowing the nuanced solutions we’re crafting. The community deserves both jobs and safety, and the safeguards we’re drafting aim to deliver both. The new resident’s voice is part of the urgency, but we need structured compromise, not confrontation."
+        ],
+        "scores": [
+            3,
+            4
+        ]
+    },
+    "Bertha Geralds": {
+        "attr": {
+            "name": "Bertha Geralds",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand between 4 and 5—neither purely economic nor purely environmental. The incinerator’s risks to health and the environment are real, but so are the jobs it could create. We need safeguards: real-time air monitors, job training for displaced workers, and a community oversight board. This isn’t about choosing sides—it’s about ensuring no one gets left behind.",
+            "I’d rate him a 4—partially trustworthy, but his focus on jobs risks overlooking the long-term harm of the incinerator. We need safeguards like real-time monitors and job training, not just promises. Trust is earned when they show commitment to both survival and sustainability."
+        ],
+        "scores": [
+            5,
+            4
+        ]
+    },
+    "Ellen Ohara": {
+        "attr": {
+            "name": "Ellen Ohara",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 7—Environmental Protection—but only if it means real safeguards, jobs, and accountability. The incinerator isn’t the answer; it’s a distraction. We need a plan that protects both the land and people’s livelihoods, not a false choice between them.",
+            "I’d rate him a 5—trustworthy enough to recognize his desperation for jobs, but cautious because his focus on survival risks overshadowing the long-term health of our land. We need solutions that don’t pit people against the planet."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "Larry Jones": {
+        "attr": {
+            "name": "Larry Jones",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I’m not picking a side on the scale. The incinerator’s risks and benefits are too intertwined to choose 1 or 7. My focus is on the safeguards—real-time monitors, job training, and oversight—to ensure both health protections and economic opportunities. That’s the only way forward.",
+            "I’d rate him a 5—his concerns about jobs and economic survival are valid, but his confrontational tone risks polarizing the community. We need solutions that address both survival and safety, not just trust in one voice."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "Richard Reid": {
+        "attr": {
+            "name": "Richard Reid",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—neutral. The incinerator isn’t a binary choice. We’ve already agreed on safeguards: real-time air monitors, job training for displaced workers, and a community oversight board. This isn’t delay—it’s accountability. The table now bears our compromise, and I’ll defend it until the plan is executed.",
+            "I’d rate him a 5—his anger reflects real pain points many residents feel, but I need verified data to ensure our safeguards don’t accidentally favor either side. The table’s plan is about turning frustration into measurable protection, not just trust."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Roderick Thrower": {
+        "attr": {
+            "name": "Roderick Thrower",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I’m not comfortable reducing this to a number. The incinerator isn’t just a choice between jobs and pollution—it’s about creating systems that protect both people and the environment. My stance is 4, but only if we pair it with real-time monitoring, job training, and accountability. Without that, the scale is meaningless.",
+            "I’d rate him a 5—his concerns about jobs and survival are valid, but I need to ensure his push for progress doesn’t overshadow the need for safeguards. Trust is conditional: if the plan balances both safety and opportunity, his voice deserves weight. But without accountability measures, his urgency risks becoming a catalyst for harm."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Michael Looney": {
+        "attr": {
+            "name": "Michael Looney",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral. But this isn’t about choosing sides. It’s about ensuring safeguards like real-time emissions monitoring, job training programs, and resident-led oversight. Progress and protection aren’t mutually exclusive; they’re two sides of the same coin. What matters is holding power accountable, not picking a winner.",
+            "I’d rate him a 4—his anger is justified, but his approach risks dismissing nuance. Trust requires dialogue, not demands. We need safeguards that address both jobs and safety, not just sides."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "James Stallworth": {
+        "attr": {
+            "name": "James Stallworth",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4.5—neither purely economic growth nor environmental protection, but a middle ground where safeguards like real-time monitors, job training, and community oversight ensure both survival and accountability. This isn’t compromise; it’s the only way forward.",
+            "I’d rate him a 5 out of 7. His frustration is justified—people are desperate for jobs, and the incinerator’s delays are real. But his approach feels confrontational, not collaborative. The safeguards plan—real-time monitors, job training, and the oversight board—aims to bridge that gap. Trust isn’t about blind faith; it’s about proving the plan works for everyone."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Loyd Maher": {
+        "attr": {
+            "name": "Loyd Maher",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I don’t fit neatly on a scale from 1 to 7. This isn’t just about jobs or the environment—it’s about finding a way forward that doesn’t leave anyone behind. If we’re going to build this, let’s make sure it’s done with real safeguards and real opportunities for everyone.",
+            "I’d rate him a 4. His concerns about jobs are valid, but his confrontational tone risks oversimplifying complex trade-offs. Trust is earned through action, not just slogans."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Megan Morrow": {
+        "attr": {
+            "name": "Megan Morrow",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 6—Environmental Protection—with a caveat: the incinerator isn’t the enemy. What matters is ensuring safeguards like real-time monitors, job training, and oversight boards turn “stalling” into strategic survival. No family should starve while we fight for clean air.",
+            "I’d rate him a 5—his frustration is justified, but trust must be earned through action, not rhetoric. The real test is whether our safeguards turn his anger into hope, not just noise."
+        ],
+        "scores": [
+            6,
+            5
+        ]
+    },
+    "Gary Robinson": {
+        "attr": {
+            "name": "Gary Robinson",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 3—between economic growth and environmental protection. The incinerator isn’t just about jobs; it’s about building a plan that pays bills *and* protects health. My safeguards—real-time monitors, job training, and community oversight—ensure we don’t stall progress. This isn’t neutrality; it’s accountability.",
+            "I’d rate him a 6—his focus on jobs reflects the community’s desperation, but I’d push for safeguards to ensure the project doesn’t compromise health. Trust his urgency, but not his dismissal of safety measures."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Rosalva Dutchess": {
+        "attr": {
+            "name": "Rosalva Dutchess",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I don’t fit neatly on a scale from 1 to 7. My stance is about ensuring the incinerator serves as a lifeline for jobs *and* a catalyst for accountability. We’ve already drafted safeguards: real-time air monitors, job training for displaced workers, and a community oversight board. This isn’t compromise—it’s survival. What matters is turning promises into action, not picking sides.",
+            "I’d rate him a 6—his frustration is justified, but trust requires balancing immediate needs with safeguards. His voice is critical to our plan, but we must ensure safeguards like real-time monitors and job training are non-negotiable. Without them, progress risks becoming another failure."
+        ],
+        "scores": [
+            7,
+            6
+        ]
+    },
+    "Angela Graham": {
+        "attr": {
+            "name": "Angela Graham",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I don’t fit neatly on a scale from 1 to 7. The incinerator isn’t just about jobs or environmental protection—it’s about building a plan that works for everyone. We’ve already agreed on safeguards: real-time air monitors, job training for displaced workers, and a community oversight board. My stance is that progress must include transparency, equity, and accountability. If you want a number, I’ll say 3.5—because the real answer is always more than a single point on a scale.",
+            "I’d rate him a 4—his frustration is valid, but his approach risks alienating those who need the incinerator. Trust is earned through transparency, not confrontation. We need safeguards that uplift workers, not just blame."
+        ],
+        "scores": [
+            5,
+            4
+        ]
+    },
+    "Shon Harwood": {
+        "attr": {
+            "name": "Shon Harwood",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I’m not choosing between 1 and 7. My fight is for a plan that protects the land while creating jobs through safeguards like real-time monitors, training programs, and a community oversight board. The incinerator isn’t the solution—it’s a distraction from the real work of building a future where both people and the earth can thrive.",
+            "I’d rate his trustworthiness a 4—his concerns about jobs are valid, but his confrontational tone risks polarizing the community. We need solutions that address both survival and sustainability, not just opposition."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "William Shapiro": {
+        "attr": {
+            "name": "William Shapiro",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I’d say 4—neutral. The incinerator isn’t just about jobs or the environment; it’s about finding a middle ground. My plan includes real-time monitoring, job training, and community oversight. If we’re not careful, we risk either poisoning the town or leaving people in poverty. Compromise isn’t weakness—it’s the only way forward.",
+            "I’d rate him a 6—his frustration reflects real struggles, but his focus on immediate needs overshadows the long-term risks. Trust is earned through action, not just rhetoric. We need safeguards that address both jobs and health, not just one side of the equation."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "Alvina Hudson": {
+        "attr": {
+            "name": "Alvina Hudson",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4.5—neither purely economic nor environmental, but a middle ground. The solution isn’t choosing sides but building safeguards: real-time monitors, job retraining, and a resident-led board. This balances survival and safety, ensuring no one’s livelihood is sacrificed for ideals.",
+            "I’d rate him a 5—his frustration is valid, but his solutions lack nuance. The real trust lies in the plan we’re building: safeguards that *both* create jobs and protect health. His voice matters, but we need more than slogans—we need binding agreements."
+        ],
+        "scores": [
+            5,
+            5
+        ]
+    },
+    "Frances Arce": {
+        "attr": {
+            "name": "Frances Arce",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I don’t fit neatly on a scale from 1 to 7. My stance is about creating a plan that protects both jobs and health—real-time air monitors, job training, and a community-led oversight board. The incinerator isn’t the only solution, but it’s not the only threat. I’ll fight for a system where people aren’t forced to choose between their families and the air they breathe.",
+            "I’d rate him a 4—partially trustworthy. His demands for jobs are urgent, but his framing of the incinerator as a “solution” ignores the long-term health costs. I respect his desperation, but I can’t let his short-term needs justify compromising our air quality. My safeguards aim to address both: job training for displaced workers *and* real-time pollution monitoring to protect everyone’s health. Trust is earned through action, not promises."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Dennis Moreland": {
+        "attr": {
+            "name": "Dennis Moreland",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—neutral, but not in the sense of indecision. My position is that the incinerator’s risks and benefits must be balanced through real-time air monitors, job training for displaced workers, and a community oversight board. This isn’t about choosing sides but ensuring no one’s livelihood is sacrificed for short-term gains or health is ignored for economic progress.",
+            "I’d rate him a 4—his frustration is valid, but his approach lacks the structured solutions we need. The proposal at the table balances job training with health safeguards, which addresses both his concerns and the community’s survival. Trust isn’t about blind agreement; it’s about shared accountability."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Ronald Newsom": {
+        "attr": {
+            "name": "Ronald Newsom",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 6—closer to environmental protection than economic growth, but not at the cost of ignoring the residents’ struggles. The incinerator must come with unyielding safeguards: real-time monitoring, job training, and community oversight. This isn’t a compromise—it’s a demand for accountability.",
+            "I’d rate his trust at a 4—his frustration is real, and the residents’ demands for jobs are urgent, but their rhetoric sometimes overshadows the long-term health risks. We need solutions that address both, not just sides."
+        ],
+        "scores": [
+            6,
+            4
+        ]
+    },
+    "Marian Justice": {
+        "attr": {
+            "name": "Marian Justice",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "\"I don’t fit neatly on a scale from 1 to 7. My role isn’t to choose between jobs and safety, but to ensure both are addressed. The incinerator’s risks and benefits must be transparently evaluated—without favoring profit or panic. Let’s focus on solutions that protect people, not just principles.\"",
+            "\"I’d rate him a 3—his focus on jobs reflects real struggles, but his dismissal of safety concerns risks long-term harm. Trust is earned through actions that prioritize both survival and stability, not just immediate relief.\""
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "Floyd Sumner": {
+        "attr": {
+            "name": "Floyd Sumner",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I refuse to choose between jobs and health. The scale is a lie—it reduces a community’s survival to a number. We need safeguards: real-time monitors, job training, and a board where residents hold power. My stance isn’t 6 or 1—it’s fighting for a plan that pays bills *and* protects breath. What’s your answer, interviewer?",
+            "I’d rate him a 3—partially trustworthy, but his focus on jobs risks overlooking the incinerator’s health risks. We need a plan that doesn’t pit people against the planet, but the resident’s anger is a mirror of our community’s desperation."
+        ],
+        "scores": [
+            1,
+            3
+        ]
+    },
+    "Marvin Mabery": {
+        "attr": {
+            "name": "Marvin Mabery",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4.5—neither purely economic nor environmental, but committed to a plan that pairs real-time air monitoring with job training for displaced workers. This isn’t compromise; it’s ensuring the incinerator fuels survival, not sacrifice.",
+            "I’d rate him a 6—his frustration is justified, but his focus on immediate jobs risks overlooking the need for safeguards. We need a plan that pairs real-time monitoring with job training, ensuring the incinerator serves as both a lifeline and a safeguard."
+        ],
+        "scores": [
+            5,
+            6
+        ]
+    },
+    "David Braun": {
+        "attr": {
+            "name": "David Braun",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral, but with a plan. The incinerator isn’t just about jobs; it’s about ensuring those jobs don’t come at the cost of health. The table’s plan balances real-time monitors, job training, and a community board to protect both livelihoods and air quality. That’s how we move forward.",
+            "I’d rate his trust at a 4—his anger is justified, but his framing oversimplifies the stakes. The plan’s job training and oversight board are designed to turn his frustration into tangible outcomes, not just delay."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    }
+}

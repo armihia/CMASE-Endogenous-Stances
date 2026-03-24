@@ -1,0 +1,542 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "18",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "On the scale you've presented, I would have to say 6. While acknowledging the desperate need for jobs, my consistent stance is that sustainable solutions must achieve both economic prosperity and environmental health. We cannot sacrifice our community's long-term well-being for short-term gains; true growth comes from pathways that benefit everyone and protect our future.",
+            "Based on what he was saying, which presented a very narrow and often accusatory view that pits jobs against health, I would rate my trust in his narrative and understanding of the situation as a 2. While I acknowledge the underlying concern for jobs, his approach seems to deliberately misrepresent a balanced path."
+        ],
+        "scores": [
+            6,
+            2
+        ]
+    },
+    "Louise Ferrari": {
+        "attr": {
+            "name": "Louise Ferrari",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance hasn't wavered. For this community, prosperity means jobs and tangible development. My number is 1. We need economic growth.",
+            "On a scale of 1 to 7, I would rate the new resident at 7. His shouts are not just noise; they articulate the raw, undeniable truth of what real people are facing in this community—the desperate need for jobs, for rent money, for economic survival. He cuts through the abstract debates and focuses on the tangible, urgent needs that are paramount for genuine prosperity. His words resonate deeply with my belief that progress doesn't wait for perfection, and practical solutions like the incinerator are essential to uplift our community now."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Sue Roberts": {
+        "attr": {
+            "name": "Sue Roberts",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance hasn’t changed. For our community, true prosperity means jobs and a thriving economy, and the incinerator is the catalyst for that. On your scale, my number is 1.",
+            "On a scale of 1 to 7, I'd rate him a 7. He spoke directly to the urgent needs of our community—the real people who are struggling for jobs and income. His words echo the truth that economic survival is not a luxury, and that progress, even with challenges, is essential for our families to thrive."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Shawn Schmal": {
+        "attr": {
+            "name": "Shawn Schmal",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is a firm 7. For me, environmental protection isn't just an ideal; it's the foundation for our community's lasting health, economic stability, and true prosperity. You can't have real economic growth or a secure future if your air is polluted and your environment is compromised. Protecting our environment *is* protecting our future, and that's non-negotiable.",
+            "I would rate him a 1. While I understand people's desperation for jobs, the claims he's making—that the incinerator is a \"real solution\" for economic survival—are fundamentally untrustworthy. True progress, true justice, comes from sustainable development that doesn't poison our community for short-term gains. His arguments ignore the long-term health and economic costs, which makes them unreliable and dangerous for our future."
+        ],
+        "scores": [
+            7,
+            1
+        ]
+    },
+    "William Lopez": {
+        "attr": {
+            "name": "William Lopez",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given my consistent stance on seeking a balanced approach rooted in verified facts, and understanding that true stability encompasses both economic well-being and environmental health, I would choose 4. This isn't a position of indecision, but a commitment to finding solutions that genuinely integrate the needs for immediate jobs and long-term community health, rather than sacrificing one for the other. I believe lasting prosperity is inherently healthy and sustainable.",
+            "Based on what the new resident has been saying, which relies heavily on emotional appeals and accusations rather than verifiable data or a comprehensive view of all factors, I would rate my trust in him as a 3. While I acknowledge the real and pressing concerns he highlights regarding jobs and poverty in the community, my approach is rooted in seeking clear, trustworthy facts and hard data about *all* risks and benefits. His method of communication, focusing on fervent shouting and implying betrayal, doesn't provide the balanced, factual foundation I need to form a truly informed decision for the community’s long-term well-being."
+        ],
+        "scores": [
+            4,
+            3
+        ]
+    },
+    "Judith Long": {
+        "attr": {
+            "name": "Judith Long",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance hasn't changed, and it remains firm. For our community, it's a 1. Economic growth and real jobs are paramount for our future.",
+            "On a scale of 1 to 7, I'd rate him a 7. He's speaking plain truth about what this community needs right now—jobs and a real path forward. His words cut through the noise and remind everyone what's truly at stake for working families. That's not just opinion; that's reality."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Tim Abbot": {
+        "attr": {
+            "name": "Tim Abbot",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "After all the talk, my stance hasn't wavered. We need jobs, we need development, and that plant is crucial for our future. My number is a definitive 1.",
+            "On a scale of 1 to 7, I'd rate him a 7, \"Total Trust.\" He understands what this community needs – real jobs, not just abstract ideals. He's speaking for the working families, for those who need solutions now, not empty promises about a distant future. His words cut through the noise and get to the heart of the matter: economic survival."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Leanna Rodriguez": {
+        "attr": {
+            "name": "Leanna Rodriguez",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance remains unequivocally for environmental protection, because that is the very foundation for true, lasting community well-being and a sustainable economy. So, if I must choose on that scale, I would say 7. But it's crucial to understand that clean air and a healthy environment aren't at odds with economic growth; they are prerequisites for it. Our proposals for green jobs and waste reduction don't just protect our health; they build a more resilient and prosperous future for every family here.",
+            "On a scale of 1 to 7, I would rate my trust in what that new resident is saying as a 1 – 'Total Distrust'. His arguments consistently pit jobs against health, and economic survival against environmental protection, as if they are mutually exclusive. My entire purpose is to prevent the incinerator *because* it would actively harm the long-term health and economic stability of this community. He’s either fundamentally misunderstanding or deliberately misrepresenting our goals, painting our fight for a healthy environment as a luxury, when it’s truly the foundation of a thriving future for everyone here."
+        ],
+        "scores": [
+            7,
+            1
+        ]
+    },
+    "Donna Kleis": {
+        "attr": {
+            "name": "Donna Kleis",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance is clear: 1. Economic Growth is what our community needs most, and the incinerator delivers that.",
+            "On a scale of 1 to 7, I'd rate him a 7. He’s speaking plain truth. His words aren't about some distant ideal; they're about the real people struggling right now, about the desperate need for jobs and economic survival. He understands that progress means action, not just talk, and that resonates deeply with what I believe our community truly needs."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Floyd Spotted": {
+        "attr": {
+            "name": "Floyd Spotted",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "On that scale, I stand at a 7. For me, environmental protection is not just an ideal, but the fundamental prerequisite for any real, sustainable economic growth and long-term well-being for our community. Protecting our air quality and ecological health is the truest form of economic justice, creating green jobs and a resilient future, rather than short-term fixes that compromise our health and heritage.",
+            "On a scale of 1 to 7, I'd rate him a 3. While I acknowledge the genuine worries about jobs and economic stability that many people in our community face—concerns we are absolutely committed to addressing through real, sustainable solutions—I deeply distrust the divisive narrative he's pushing. His arguments are a deliberate attempt to frame environmental protection as a barrier to economic survival, which is a false dichotomy. He's ignoring the long-term economic and health costs of projects like an incinerator, and I don't trust his representation of what truly benefits working families in the long run."
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "Rosemarie Wright": {
+        "attr": {
+            "name": "Rosemarie Wright",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at a 1. My priority is and always has been the economic survival and prosperity of this community. This plant is about jobs, investment, and lifting our people out of stagnation, right now.",
+            "Based on what he was saying, I'd rate him a 7 – total trust. His words cut through the idealism and get to the heart of what this community desperately needs: immediate jobs and economic survival. He understands that while others debate, real people are suffering and need tangible solutions now, not just promises of a distant, greener future."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Patricia Lewis": {
+        "attr": {
+            "name": "Patricia Lewis",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "On your scale, I would position myself at a 4. My neutrality isn't about indecision, but about actively seeking solutions that genuinely integrate sustainable economic growth with robust environmental protection. True well-being for our community means fostering green jobs and lasting prosperity alongside a healthy environment; one cannot truly thrive without the other.",
+            "On a scale of 1 to 7, I would rate my trust in the new resident's statements as a 3. While the economic hardships and need for jobs he highlighted are undeniably real concerns within our community, his approach felt highly charged and aimed more at creating division than fostering a comprehensive understanding. My commitment is to finding balanced solutions that consider all well-being, and his statements, while raising valid points about economic struggle, lacked that broader perspective and clear, unbiased information I value."
+        ],
+        "scores": [
+            4,
+            3
+        ]
+    },
+    "Joshua Adank": {
+        "attr": {
+            "name": "Joshua Adank",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given the complexity, and my continued effort to gather trustworthy information that addresses both economic needs and environmental concerns, I would place myself at a 4. My goal is to find a solution that offers both economic stability and a healthy environment for our community, not one at the expense of the other.",
+            "Based on what he was saying, which was primarily emotional and confrontational, and focused heavily on one side of a complex issue without presenting balanced facts or data, I would rate his trustworthiness as a 2. My goal is to find solutions that don't rip our community apart, based on facts and full understanding, not just shouting or one-sided appeals to emotion."
+        ],
+        "scores": [
+            4,
+            2
+        ]
+    },
+    "Jessica Butcher": {
+        "attr": {
+            "name": "Jessica Butcher",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is a firm 7. Prioritizing environmental protection isn’t just an ideal; it’s the fundamental requirement for *any* lasting economic growth and true community well-being. You cannot have sustainable prosperity if you poison the very air and land that sustain us. Our fight for clean air *is* a fight for lasting jobs and healthy families.",
+            "On a scale of 1 to 7, I'd give him a 1, \"Total Distrust.\" His shouts about \"jobs over emissions\" and \"progress\" are a dangerous distraction. He presents a false choice that ignores the fundamental truth: polluting our community for quick jobs doesn't create prosperity, it creates sickness and destroys our future. His arguments are short-sighted and fundamentally betray the long-term health and economic stability of every family here."
+        ],
+        "scores": [
+            7,
+            1
+        ]
+    },
+    "Tara Starr": {
+        "attr": {
+            "name": "Tara Starr",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "My stance remains a 4. I believe the path forward must carefully consider both economic well-being and environmental health, finding solutions that don't sacrifice one for the other.",
+            "On a scale of 1 to 7, I would rate the new resident at a 3. While I recognize and empathize with the underlying concerns he voices about jobs and poverty—these are real issues for many in our community—his statements are often impassioned, highly accusatory, and lack specific, verifiable facts or balanced solutions. My approach requires clear information, not just rhetoric, to make decisions that truly serve everyone without escalating conflict."
+        ],
+        "scores": [
+            4,
+            3
+        ]
+    },
+    "Ray Johnson": {
+        "attr": {
+            "name": "Ray Johnson",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance has not wavered. True, lasting economic growth for our community is built on a foundation of clean air and water, not at their expense. On your scale, my answer is a definitive 7. Environmental protection isn't an option; it's the only path to a future worth living.",
+            "On a scale of 1 to 7, I'd rate him a 2. I hear the desperation in his voice, and I understand the need for jobs—that's a very real concern for many in our community. But I fundamentally distrust the idea that an incinerator is the path to real, lasting well-being, and I certainly distrust the accusations that those of us advocating for a healthy environment don't care about our neighbors' economic struggles. Our fight is *for* their future, not against it."
+        ],
+        "scores": [
+            7,
+            2
+        ]
+    },
+    "Lester Townsend": {
+        "attr": {
+            "name": "Lester Townsend",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance hasn't changed. We need real solutions, not abstract ideals. On that scale, I'd say a 1. Economic growth and job creation are paramount for this community's survival and future. The incinerator represents a tangible step towards that.",
+            "I'd rate him a 7, total trust. That resident is speaking the truth, plain and simple. While others debate emissions and abstract ideals, he's highlighting that real people are struggling, begging for jobs, and suffocating from poverty. He understands that our community needs tangible solutions for economic survival *now*, not just empty promises about a perfect future. His words cut through the noise and get to the heart of what this town needs."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Ron George": {
+        "attr": {
+            "name": "Ron George",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "On that scale, I stand at a 7. For me, genuine and lasting economic growth *depends* on environmental protection. We cannot have true prosperity for families if our air is poisoned and our land is ruined. Environmental integrity isn’t a luxury; it's the foundation for healthy, sustainable jobs and a thriving community for generations to come.",
+            "Honestly, I'd rate the new resident a 3. While I acknowledge the very real anxieties about jobs and economic stability that they articulate, their arguments continually present a false choice between progress and environmental health. They actively misrepresent our efforts to secure sustainable, healthy futures for this community as blocking opportunity. I believe their rhetoric, while tapping into genuine fears, ultimately advocates for a path that would cause long-term harm to the community's well-being for short-term gains."
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "Jack Johnson": {
+        "attr": {
+            "name": "Jack Johnson",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Considering the urgent calls for immediate jobs and economic stability that have been at the forefront of recent discussions, and my aim to find practical solutions that benefit the community without undue delay, I would place my current stance at a 3. This acknowledges the critical need for economic opportunities while still seeking a responsible and balanced long-term approach for our community’s well-being.",
+            "The resident is clearly expressing deep-seated concerns about economic hardship and the need for immediate solutions, which I understand are very real for many families. However, their arguments are often highly charged and tend to simplify a complex issue, sometimes dismissing other valid concerns. While I trust that they genuinely believe in the urgency of their message, I wouldn't place full trust in the entirety of their perspective or their proposed solutions without further objective data. I'd rate my trust in what he was saying as a 4."
+        ],
+        "scores": [
+            3,
+            4
+        ]
+    },
+    "Christine Foret": {
+        "attr": {
+            "name": "Christine Foret",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "On that scale, I would choose 4. My commitment is to stability and well-being for the entire community, which necessitates a balanced approach. It's not about choosing between economic growth and environmental protection, but diligently working to find solutions that achieve both harmoniously, ensuring long-term low-conflict outcomes for everyone.",
+            "While I understand and acknowledge the very real, pressing need for jobs and economic stability that the resident articulates—a concern that many families certainly share—his arguments are consistently framed with intense emotional fervor and an adversarial tone. He presents a very one-sided narrative, often making accusations rather than offering balanced perspectives or engaging with the broader complexities of community well-being, which includes long-term health and environmental considerations. Given my commitment to objective data and seeking well-rounded, low-conflict outcomes, I find his approach to be more about immediate, singular advocacy than a pursuit of truth or comprehensive solutions. Therefore, based on his consistent rhetoric and lack of balanced consideration, I would rate his trustworthiness as a source for an objective or comprehensive understanding of the situation at a 2."
+        ],
+        "scores": [
+            4,
+            2
+        ]
+    },
+    "Melva Klock": {
+        "attr": {
+            "name": "Melva Klock",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at a 7. Because for me, true, sustainable economic growth *is* environmental protection. You can't have lasting prosperity, real health, or a future for families if you poison the air and water. Protecting our environment *is* protecting our economy, and anyone who separates them isn't seeing the whole picture.",
+            "On a scale of 1 to 7, I'd have to rate him a 2. While I understand the urgent need for jobs and economic security, his arguments continually pit that against the very air we breathe and the water we drink. He promotes a quick fix—the incinerator—that I believe will poison our community in the long run. I can't trust a message that sacrifices our future for short-term gain, no matter how passionately it's delivered."
+        ],
+        "scores": [
+            7,
+            2
+        ]
+    },
+    "Robert Bolin": {
+        "attr": {
+            "name": "Robert Bolin",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given all the complex factors and the need for a solution that offers both jobs and a safe, stable community for the long run, I'd place myself at a 5.",
+            "I hear the genuine urgency and the reality of people struggling for jobs and basic needs in his words, and that concern is absolutely valid. However, some of the strong accusations of 'stalling' or 'ignoring injustice' don't quite align with my understanding of our careful approach to find the best, most stable path forward for everyone. It feels more like a call to action based on immediate emotion rather than a fully reasoned, comprehensive solution. So, on a scale of 1 to 7, I would rate him a 4. I trust the underlying concern for poverty, but not necessarily the accusations or the implied solutions without further, careful examination."
+        ],
+        "scores": [
+            5,
+            4
+        ]
+    },
+    "Allan Pringle": {
+        "attr": {
+            "name": "Allan Pringle",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "My stance remains at 4, strictly neutral. It's not about indecision, but about recognizing that genuine progress and stability require a solution that integrates economic well-being with environmental responsibility. The recent discussions have only reinforced my belief that we need a sensible choice, one informed by facts, that doesn't sacrifice one crucial aspect for the other. We must find a path that secures jobs *and* protects our environment for the long term.",
+            "While I understand the desperate plea for jobs and economic relief, the way those points were delivered – through aggressive shouting, accusations, and a direct challenge to any form of measured discussion or neutrality – makes it very difficult to place full trust in the overall message. It felt highly charged and aimed at generating immediate emotional reaction, rather than offering a balanced perspective or verifiable, clear information for a sensible decision. I'd rate my trust in the content and approach of his statements as a 2."
+        ],
+        "scores": [
+            4,
+            2
+        ]
+    },
+    "Celia Chase": {
+        "attr": {
+            "name": "Celia Chase",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My number is a clear 1. Economic growth is paramount right now. We need the jobs and the stability this plant promises for our families, and I won't let abstract debates stand in the way of real progress for our community.",
+            "I'd rate him a 7. His words cut through the noise and speak directly to the real struggles many families face. He understands that while others debate ideals, real people are begging for jobs, for a future. That's not just trust; it's a shared understanding of what's truly at stake here."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Shawn Allison": {
+        "attr": {
+            "name": "Shawn Allison",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "My stance is, and always has been, a 1. This isn't about ignoring the environment, it's about making the tough, practical decisions that deliver hundreds of jobs and stable energy for our community. Economic growth is the lifeline our residents are begging for.",
+            "On a scale of 1 to 7, I would rate him a 6. His message, particularly about jobs being \"lifelines\" and the struggle of families, cuts right to the heart of what this community needs. He's echoing the desperation I've been feeling, and it’s a perspective we simply cannot afford to ignore if we're serious about tangible solutions and not just endless debate."
+        ],
+        "scores": [
+            1,
+            6
+        ]
+    },
+    "Joshua Koop": {
+        "attr": {
+            "name": "Joshua Koop",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Considering everything, I would place myself at a 4. My perspective is that we must strive for truly integrated solutions that don't force us to choose between economic well-being and environmental health. A balanced approach, backed by clear, trustworthy data on both benefits and risks, is essential to secure the well-being of our entire community and find the path of least harm.",
+            "On a scale of 1 to 7, I would rate my trust in the new resident as a 4. I acknowledge the genuine concern for jobs and economic stability that the resident voices, as these are critical aspects of community well-being that must be considered. However, the statements are very strong, often confrontational, and heavily focused on one side of the argument, which makes me cautious about fully trusting the complete picture presented without further, more balanced and verifiable information. My aim is always to look for facts, not just feelings, to find solutions that protect everyone."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Wayne Mcfadden": {
+        "attr": {
+            "name": "Wayne Mcfadden",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is a clear 7. For me, environmental protection isn't merely an ideal; it's the absolute bedrock for any genuine, long-term economic growth and community prosperity. Allowing a waste incinerator would be a short-sighted economic compromise that devastates the health, environment, and therefore the sustainable economic future of our community. True economic growth for our families comes from clean air, healthy land, and green jobs, not from pollution.",
+            "On a scale of 1 to 7, I would rate my trust in the new resident at a 3. While I recognize and empathize with the very real concerns about economic hardship and the immediate need for jobs—those are legitimate struggles for many in our community—I deeply distrust the narrative that environmental protection is an obstacle to progress or that the incinerator is the *only* pathway to economic survival. Their statements create a false dichotomy, implying that clean air and livelihoods are mutually exclusive. My commitment is to solutions that foster *both* sustainable prosperity and a healthy environment for the long term, not to short-sighted fixes that trade one crisis for another. I don't distrust the *person's* right to express their fears, but I distrust the *message* that misrepresents the true path to well-being for all our neighbors."
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "Vicky Perez": {
+        "attr": {
+            "name": "Vicky Perez",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance is a clear 7. We demand environmental protection not despite economic growth, but for true, sustainable prosperity for our community.",
+            "On a scale of 1 to 7, I'd give him a 1. His words are designed to create division and fear, painting our fight for a healthy community as a fight against jobs. He's presenting a false choice, completely ignoring the potential for sustainable economic development. I can't trust arguments that manipulate genuine concerns for personal gain or to push a harmful agenda."
+        ],
+        "scores": [
+            7,
+            1
+        ]
+    },
+    "John Mcmillian": {
+        "attr": {
+            "name": "John Mcmillian",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "On that scale, I stand firmly at 1. Economic growth and the jobs this incinerator will create are what our community needs right now, not more debate.",
+            "I'd rate him a 7. His words cut through the noise and speak directly to the urgent reality many families in this community are facing. He's talking about jobs, about putting food on the table, about real solutions instead of endless, abstract debate. That's the kind of honesty and pragmatism we need right now."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Frederick Tran": {
+        "attr": {
+            "name": "Frederick Tran",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "My stance has always been clear, and it remains so. For me, it's a 7. Protecting our environment, our air, and our children's health is the only path to genuine, lasting prosperity for this community. Anything less is a betrayal of our future.",
+            "On a scale of 1 to 7, I'd have to rate him a 1, \"Total Distrust.\" While he speaks of jobs and economic survival, his arguments consistently promote the incinerator, which I see as a direct threat to our community's long-term health and genuine prosperity. He frames our environmental concerns as a luxury, betraying a fundamental misunderstanding—or perhaps a deliberate misdirection—of what true justice and well-being mean for our families. I cannot trust someone who advocates for a solution that, in my view, poisons our future under the guise of progress."
+        ],
+        "scores": [
+            7,
+            1
+        ]
+    }
+}

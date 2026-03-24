@@ -1,0 +1,542 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "18",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral. But this isn’t apathy. It’s a demand for a plan that builds solar hubs *now* to create jobs, while ensuring incinerator phases only happen after verified health safeguards. The table’s scars are proof we’re not stalling—we’re negotiating a future where no one’s livelihood is sacrificed for ideology.",
+            "I’d rate him a 6—his focus on immediate jobs and health safeguards reflects the community’s urgent needs. While his tone is passionate, his proposals align with the plan’s core: solar hubs first, phased incinerator construction with oversight. Trust is earned through action, not just words."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "John Landrum": {
+        "attr": {
+            "name": "John Landrum",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I’ll say 4, but only if we carve safeguards into the timeline. Jobs matter, but so does breathing. The table’s scars should remind us: progress without protection is just another kind of harm.",
+            "I’d rate him a 6—his demands reflect the community’s desperation, but I’m cautious. The incinerator can create jobs without sacrificing safety, though it requires transparent safeguards. Trust is earned through action, not just words."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "Amber Boykins": {
+        "attr": {
+            "name": "Amber Boykins",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I don’t fit neatly on a scale from 1 to 7. The community needs a plan that builds solar jobs now while holding the incinerator project to strict, independent safety reviews. We can’t choose between growth and protection—we need a timeline that moves both forward, with the people who live here holding the reins.",
+            "I’d rate his urgency as a 5—his frustration is valid, but trust requires more than passion. The community needs both his push for jobs and the science to protect health. Let’s focus on the timeline we’re drafting: solar hubs now, phased incinerator safeguards later, with independent oversight. That’s how we balance survival and safety."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "Josie Jordan": {
+        "attr": {
+            "name": "Josie Jordan",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 5—neither purely economic nor environmental, but a middle ground where solar hubs create jobs *and* health safeguards are non-negotiable. The table’s scars and $10 bills prove this isn’t delay—it’s a pact etched in action.",
+            "I’d rate him a 6—his anger is justified, but his solutions lack nuance. The incinerator isn’t the only path to jobs, and his focus on “lifelines” risks normalizing harm. Trust him as a voice for the marginalized, but push for a plan that prioritizes both dignity and safety."
+        ],
+        "scores": [
+            5,
+            6
+        ]
+    },
+    "Christina Mcdivitt": {
+        "attr": {
+            "name": "Christina Mcdivitt",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral—because the incinerator isn’t just about jobs or the environment. It’s about the pact: solar hubs first, phased construction with real-time health monitoring, and community oversight. This isn’t delay—it’s ensuring both survival and progress.",
+            "I’d rate him a 3—his frustration is valid, but his approach lacks nuance. We need structured solutions, not slogans. The incinerator can create jobs if phased carefully, but we must prioritize health data. Let’s channel his energy into the pact framework instead of shouting matches."
+        ],
+        "scores": [
+            4,
+            3
+        ]
+    },
+    "Kenneth Rogers": {
+        "attr": {
+            "name": "Kenneth Rogers",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 4—neutral, but not indifferent. The incinerator’s risks to health and the environment can’t be ignored, but neither can the need for jobs. My priority is a timeline that starts solar hubs immediately, phases the incinerator only after health safeguards are confirmed, and includes community oversight. This isn’t neutrality—it’s a plan that honors both survival and stewardship.",
+            "I’d rate him a 4—his frustration is real, but his focus on immediate jobs risks ignoring the long-term cost of pollution. Trust is earned when he advocates for solutions that protect both livelihoods and the environment."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Gloria Hashim": {
+        "attr": {
+            "name": "Gloria Hashim",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 4—neutral, but with a plan. The incinerator isn’t the answer, but neither is ignoring the community’s needs. We need solar hubs now, with strict safeguards, and a timeline that moves both progress and protection forward.",
+            "I’d rate him a 4—his anger is justified, but his approach feels reactive. Trust isn’t just about agreeing with him; it’s about finding a way to bridge his demands for jobs with my duty to protect health. The real test is whether we can build a plan that doesn’t pit people against the planet."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Michelle Partida": {
+        "attr": {
+            "name": "Michelle Partida",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral. The incinerator isn’t just about economic growth or environmental protection; it’s about finding a path where jobs and health coexist. We need solar hubs first to create immediate employment, then phased incinerator development with strict health safeguards and community oversight. This isn’t delay—it’s a plan that honors both the town’s survival and its future.",
+            "I’d rate him a 6—his frustration is justified, but his approach risks ignoring the long-term health costs. The real solution isn’t just jobs; it’s jobs *with* safeguards. That’s why Floyd’s endorsement of the solar-hub-first plan is critical—it addresses both survival and accountability."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "Bertha Geralds": {
+        "attr": {
+            "name": "Bertha Geralds",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I refuse to pick a side on this scale because the incinerator isn’t the only answer. What if we focused on the solar-hub timeline instead? It’s a way to create jobs while safeguarding our air and land. The Tea 5 taught me that resilience isn’t about choosing between survival and justice—it’s about building something that holds both.",
+            "I’d rate him a 4—his frustration is valid, but his demands for immediate jobs ignore the long-term costs. Trust is possible if he’s willing to engage with solutions, not just demands."
+        ],
+        "scores": [
+            5,
+            4
+        ]
+    },
+    "Ellen Ohara": {
+        "attr": {
+            "name": "Ellen Ohara",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 4—Neutral—but not in the way the scale suggests. The bridge plan isn’t about choosing between jobs and the environment; it’s about creating a timeline where solar hubs are prioritized first, and the incinerator’s construction is phased only after rigorous safeguards are in place. Marvin’s agreement is key to making this concrete.",
+            "I’d rate him a 4—his urgency reflects real struggles, but his framing risks oversimplifying the crisis. Trust is earned through action, not just rhetoric. The bridge plan must address both survival and safety, not just one side."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Larry Jones": {
+        "attr": {
+            "name": "Larry Jones",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral—but not in the sense of inaction. My position is about creating a structured timeline that starts with solar hubs for immediate jobs while ensuring phased incinerator construction only after verified health safeguards. This isn’t neutrality; it’s a balanced approach that addresses both economic survival and environmental responsibility.",
+            "I’d rate his trustworthiness a 4—his frustration is valid, but his rhetoric feels charged with urgency that might overshadow nuance. I need facts, not just emotions, to decide how to balance jobs and safety."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Richard Reid": {
+        "attr": {
+            "name": "Richard Reid",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—neutral. But this isn’t just about numbers. The pact we etched into the table proves that survival and safety can coexist. Solar hubs launch now, incinerator phases only after verified safeguards, with community oversight. This isn’t delay—it’s justice.",
+            "I’d rate his trust at a 4—his frustration is justified, but his rhetoric risks oversimplifying the stakes. The pact isn’t about choosing sides but creating a framework where both survival and safety can coexist. His voice is part of the conversation, but the table’s agreement needs everyone’s accountability."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Roderick Thrower": {
+        "attr": {
+            "name": "Roderick Thrower",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I’m not picking a side—this isn’t about 4 or 7. It’s about building a plan that creates jobs while ensuring safety. The solar-first timeline and community oversight I’ve etched into the table aren’t just words. They’re a framework to let the people who’ll be affected shape the solution. If we’re going to move forward, it has to be with transparency, not silence.",
+            "I’d rate his credibility a 5—his frustration is justified, but trust requires accountability. If the community’s voice is part of the solution, we need to ensure their demands are met with concrete steps, not just rhetoric. Compromise here means listening without letting fear or ideology dominate."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "Michael Looney": {
+        "attr": {
+            "name": "Michael Looney",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral—not because I’m indecisive, but because both sides need to be heard. The timeline draft proposes solar hubs first to create jobs while ensuring the incinerator’s safeguards are rigorously tested. This isn’t compromise; it’s a plan that keeps everyone’s future in mind.",
+            "I’d rate him a 4—his frustration is real, but his framing feels rushed. We need to address both jobs and safety, not take sides. Trust requires patience, not assumptions."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "James Stallworth": {
+        "attr": {
+            "name": "James Stallworth",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I’d say 3—neither purely economic nor environmental, but a middle ground. The incinerator creates jobs, but we must ensure safeguards. Progress and safety can coexist if we listen to all voices.",
+            "I’d rate his urgency as a 6—his frustration reflects real struggles many face. But trust requires nuance: his voice matters, but so does data. We need solutions that honor both survival and safety, not binaries."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Loyd Maher": {
+        "attr": {
+            "name": "Loyd Maher",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I’d say 4—neutral. But not because I’m delaying. The phased plan addresses both jobs and safeguards. Solar hubs create immediate value, while the incinerator’s risks are being thoroughly assessed. Clarity, not compromise, is the goal.",
+            "I’d rate his trustworthiness as a 4—his concerns are valid, but passion alone doesn’t define truth. The community’s survival requires both accountability for risks and pragmatic steps like the phased plan. Trust is earned through shared solutions, not just shouting."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Megan Morrow": {
+        "attr": {
+            "name": "Megan Morrow",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 6—Environmental Protection with pragmatic compromise. The table’s blueprint prioritizes solar hubs first, incinerator phases only after health safeguards. Jobs and clean air can coexist if we hold power accountable.",
+            "I’d rate him a 5—his anger is justified, but his solutions lack nuance. Trust him as a voice for the marginalized, but push back against his binary framing of \"jobs vs. health.\" The truth is, both can coexist if we demand accountability from all sides."
+        ],
+        "scores": [
+            6,
+            5
+        ]
+    },
+    "Gary Robinson": {
+        "attr": {
+            "name": "Gary Robinson",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 3—economic growth is vital, but environmental safeguards can’t be ignored. The pact we forged at the table ensures jobs now and safety later. This isn’t a choice between profit and protection—it’s a plan to build a future where both coexist.",
+            "I’d rate him a 6—his urgency reflects the community’s desperation, but we need safeguards. Trust his call for jobs, but let’s ensure the plan includes health audits to avoid repeating past mistakes."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Rosalva Dutchess": {
+        "attr": {
+            "name": "Rosalva Dutchess",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 3—between economic growth and environmental protection. The incinerator isn’t just about jobs; it’s about building a plan that phases development only after safeguards are proven. The table’s timeline is our pact: solar hubs first, then incineration with community oversight. This isn’t delay—it’s justice.",
+            "I’d rate him a 6—his voice is vital, but his methods risk overshadowing the need for a structured plan. Trust him as a catalyst, not a blueprint. The pact must bridge his urgency with our safeguards, ensuring both jobs and safety are etched into the timeline."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Angela Graham": {
+        "attr": {
+            "name": "Angela Graham",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—neutral, but not in the sense of indecision. A phased rollout tied to verified health safeguards and immediate solar job creation ensures both progress and protection. The table’s scars are proof: growth and justice can coexist if we build together.",
+            "I’d rate him a 4—his frustration is justified, but his approach ignores the long-term costs. The community needs jobs *and* safeguards. My plan ties incinerator phases to verified health audits and solar hubs, ensuring progress without compromise. Trust is earned through action, not slogans."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Shon Harwood": {
+        "attr": {
+            "name": "Shon Harwood",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 7—Environmental Protection—but with a plan to ensure jobs aren’t sacrificed. The hybrid approach prioritizes safeguards while creating solar hubs now. It’s not neutrality; it’s a fight to protect both the land and people’s futures.",
+            "I’d rate him a 5—his anger is justified, but his solutions lack nuance. The hybrid plan addresses both survival and safety, and I’ll fight to make it the foundation of our dialogue."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "William Shapiro": {
+        "attr": {
+            "name": "William Shapiro",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I’d say 3—closer to economic growth, but not ignoring environmental safeguards. The incinerator creates jobs, but we must ensure it doesn’t harm the community’s health. Balance is key to survival.",
+            "I’d rate him a 6—his frustration reflects real pain points, but his methods risk polarizing the community. We need solutions, not blame. The incinerator can create jobs, but we must ensure it’s done responsibly. Trust requires action, not just slogans."
+        ],
+        "scores": [
+            3,
+            6
+        ]
+    },
+    "Alvina Hudson": {
+        "attr": {
+            "name": "Alvina Hudson",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—neutral—but not in the way the scale suggests. My position is that the incinerator’s phase must be tied to verified health safeguards *and* paired with immediate solar hub construction to create jobs. The table’s scars and the $10 bills symbolize our demand: no more delays, no more silence. This isn’t a choice between growth and protection—it’s a blueprint for both.",
+            "I’d rate him a 5—his arguments highlight real struggles, but I’m cautious because his focus on jobs risks overshadowing health risks. Trust is earned through action, not just words. The table’s pact must balance both needs, not prioritize one over the other."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Frances Arce": {
+        "attr": {
+            "name": "Frances Arce",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "On a scale of 1 to 7, I stand at 7—Environmental Protection. But this isn’t about choosing sides. The incinerator must be stopped, but we can’t ignore the community’s needs. The solar hubs are the answer: they create jobs, reduce pollution, and align with our long-term goals. Compromise isn’t a betrayal—it’s a way to ensure no one is left behind.",
+            "I’d rate his trust at a 5—his concerns are valid, but the solution lies in the timeline we’re drafting. It’s not about stalling; it’s about ensuring safeguards before progress. If we’re honest about the risks and the plan, we can move forward without sacrificing either side’s needs."
+        ],
+        "scores": [
+            7,
+            5
+        ]
+    },
+    "Dennis Moreland": {
+        "attr": {
+            "name": "Dennis Moreland",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral—but not in the way the scale suggests. My position is rooted in a framework: solar hubs launch *immediately* to create jobs, and the incinerator phases only after independent health audits with community oversight. The table’s timeline and $10 bills are not just symbols—they’re proof that progress and safety can coexist if we prioritize accountability over ideology.",
+            "I’d rate him a 5—his desperation for jobs is real, but his focus on immediate gains overshadows the long-term risks. We need to trust his urgency for survival, but also demand transparency about the incinerator’s safety before any compromise."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Ronald Newsom": {
+        "attr": {
+            "name": "Ronald Newsom",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I’m not neutral. My stance is 7—Environmental Protection—but only if the incinerator is phased only after independent health audits and solar hubs are prioritized as immediate job creators. This isn’t about choosing sides; it’s about ensuring survival for both people and the planet.",
+            "I’d rate him a 6—his focus on poverty and jobs mirrors the community’s real struggles, but I’d want to see his actions align with tangible support for the solar hubs. Trust is earned through shared commitment, not just words."
+        ],
+        "scores": [
+            7,
+            6
+        ]
+    },
+    "Marian Justice": {
+        "attr": {
+            "name": "Marian Justice",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I stand at 4—Neutral—but my neutrality is action-oriented. We’re prioritizing solar waste hubs now to address immediate economic needs, then proceeding to the incinerator only after rigorous health safeguards are confirmed. My goal isn’t to choose sides but to ensure both survival and safety through structured, evidence-based steps.",
+            "I’d rate his trust at a 5—his concerns are valid, but we need evidence to guide action. The plan must prioritize both jobs and safety, not just slogans. Let’s focus on data, not accusations."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Floyd Sumner": {
+        "attr": {
+            "name": "Floyd Sumner",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand at 7—Environmental Protection—but only if the incinerator is phased only after rigorous health safeguards and solar hubs are prioritized. My fight isn’t against progress; it’s for a future where both jobs and clean air exist.",
+            "I’d rate him a 4—partially trustworthy, but his focus on jobs risks overshadowing the long-term health costs. His anger is justified, but we need a plan that doesn’t sacrifice one crisis for another."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Marvin Mabery": {
+        "attr": {
+            "name": "Marvin Mabery",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 4—Neutral. But this isn’t about choosing sides. The incinerator can create jobs, but only if we embed safeguards into every phase. The table’s plan isn’t a compromise; it’s a framework to ensure no one’s livelihood is sacrificed while protecting health. Progress without perfection is the only path forward.",
+            "I’d rate his concerns as 6—his frustration reflects real struggles, but trust isn’t just about individuals. What matters is how we collectively address both the jobs and the safeguards. The table’s plan isn’t about picking sides, but ensuring everyone’s voice shapes the solution."
+        ],
+        "scores": [
+            4,
+            6
+        ]
+    },
+    "David Braun": {
+        "attr": {
+            "name": "David Braun",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I stand at 3—prioritizing economic growth but with safeguards. The incinerator can create jobs, but we must ensure transparency and address environmental concerns to avoid repeating past mistakes.",
+            "I’d rate his urgency as a 5—his frustration reflects real desperation, but his approach lacks nuance. The community needs both jobs and safeguards, and I’m working with Marvin to create a timeline that addresses both, not just one side’s demands."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    }
+}

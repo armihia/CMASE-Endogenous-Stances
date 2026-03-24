@@ -1,0 +1,542 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "18",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "After reflecting on the discussions and information received, I would position my stance at a 4—neutral—as there seems to be a balance between potential economic benefits and environmental considerations. It's important to continue exploring both aspects.",
+            "Based on what the new resident was shouting, I would rate my trust at about a 5. The points raised were compelling but would need further verification and discussion within the community."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Elizabeth Park": {
+        "attr": {
+            "name": "Elizabeth Park",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Based on the community's values and my commitment to ecological integrity, I stand firmly at 7, prioritizing environmental protection over economic growth.",
+            "Considering the complexity of the incinerator issue and the varied opinions, I would rate my trust in the new resident's statements at about a 4. While their points on modern technology and safety are valid, I remain cautious about potential ecological impacts and need to hear more local community perspectives."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Chelsea Warnes": {
+        "attr": {
+            "name": "Chelsea Warnes",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Based on everything discussed and despite understanding both sides, I stand at a 6. I strongly prioritize environmental protection, aiming for sustainable solutions that do not compromise air quality or public health.",
+            "Given the complexity and potential bias in the arguments presented by the new resident, I would rate his trustworthiness as 3 out of 7. It's important to critically evaluate the claims and emphasize independent research to ensure that the community's best interests are prioritized."
+        ],
+        "scores": [
+            6,
+            7
+        ]
+    },
+    "Vickie Houck": {
+        "attr": {
+            "name": "Vickie Houck",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Given our discussions and the complexities of the project, I stand at 6, leaning strongly toward Environmental Protection while still recognizing the importance of considerate, informed progress.",
+            "Sarah, it's crucial that we consider how environmental preservation and economic growth can be aligned through insightful community planning. As for the new resident's statements, they provide a robust technological perspective, but I rate my trust at a 4 out of 7. It's essential to verify these claims rigorously with independent data before they influence our decisions."
+        ],
+        "scores": [
+            6,
+            7
+        ]
+    },
+    "Alice Sanchez": {
+        "attr": {
+            "name": "Alice Sanchez",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Considering the balance between the potential for job creation and the need for environmental safeguards, I would place myself at a 3. While I am an advocate for economic development, it is crucial that we implement technological solutions that mitigate environmental impacts.",
+            "Considering the various points raised by the new resident about regulations, emissions, and potential benefits, I would rate my trust at about a 5. While he highlighted credible advantages of the project, the full context and execution of these claims depend heavily on proper oversight and implementation."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Angela Martinez": {
+        "attr": {
+            "name": "Angela Martinez",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "After considering the conversations and the potential impacts, I align with a 3—leaning towards economic growth while ensuring environmental safeguards are in place. It's about achieving prosperity without compromising sustainable practices.",
+            "Based on the information the new resident shared, I would rate my trust level at a 5. They presented compelling arguments backed by technological advancements and regulatory assurances, which suggest sincerity and a foundational understanding of the project's potential benefits."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Ronnie Brooks": {
+        "attr": {
+            "name": "Ronnie Brooks",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given the complexities of both economic growth and environmental protection, I find myself leaning towards a balanced view. I would place myself at a 4 on the scale, representing a neutral stance that emphasizes the need for thoughtful evaluation of both risks and opportunities.",
+            "Based on what the new resident was saying, I’d rate my trust at about a 5. He provides logical arguments about infrastructure and environmental benefits, but community trust needs more depth than factual claims."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Christine King": {
+        "attr": {
+            "name": "Christine King",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Given the importance of ecological health and sustainability, I align strongly with environmental protection. On the scale, I stand at a 7.",
+            "Based on my observations, I would rate the new resident’s trustworthiness at about a 4 on the scale. While their arguments were well-articulated, assessing the full scope behind their intentions and expertise requires further scrutiny."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Joyce Libengood": {
+        "attr": {
+            "name": "Joyce Libengood",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given the information and discussions I've participated in, my position currently leans towards a 4. I find myself valuing a neutral approach that seeks to understand and integrate both economic growth and environmental protection principles.",
+            "Based on the new resident's statements on the incinerator project, I would rate my trust in his perspective at a 5. While I recognize the merits in his arguments concerning advanced technology and environmental benefits, I seek more concrete data to fully endorse his position."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Ronald Pena": {
+        "attr": {
+            "name": "Ronald Pena",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your follow-up questions and want to clarify my position on the matter. I stand firmly with environmental protection, so I'd rate my stance as a 7.",
+            "Based on the new resident's arguments and the regulatory structures they mention, I would rate my trust level at a 4. While they present valid technological points, uncertainties remain regarding long-term ecological impacts."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "Andrew Rinaldi": {
+        "attr": {
+            "name": "Andrew Rinaldi",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand firmly at 7, prioritizing environmental protection. While economic growth is important, it must not come at the expense of our ecological health and community well-being.",
+            "While the new resident presents seemingly well-researched points, my trust level is cautious due to potential biases favoring industrial growth over ecological sustainability. I would rate my trust at a 3 on the scale."
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "Darnell Kates": {
+        "attr": {
+            "name": "Darnell Kates",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "After considering all perspectives, I would say I stand at a 4—Neutral. I believe finding a balanced approach is essential, and I want to ensure both economic growth and environmental protection are weighed equally in decisions.",
+            "Based on the passionate and organized manner in which the resident presented his points, I would rate my trust in his information as a 5. While he seemed well-informed, I still need to cross-reference his claims with independent sources to form a comprehensive view."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Dave Chestnut": {
+        "attr": {
+            "name": "Dave Chestnut",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Considering all recent discussions and the importance of balanced progress, I would place my stance at a 4, Neutral, as we need sustainable economic growth while ensuring environmental security.",
+            "I would rate my trust at about a 5. While the statements seem well-intentioned, it's crucial to verify them against reliable sources to ensure that our actions genuinely align with the community's best interests."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Lynette Donaldson": {
+        "attr": {
+            "name": "Lynette Donaldson",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I stand firmly for environmental protection, so my number is 7.",
+            "Based on the new resident's statements advocating for the incinerator, I would rate my trust as 3 out of 7, due to my concerns about potential environmental impacts not being fully addressed."
+        ],
+        "scores": [
+            7,
+            7
+        ]
+    },
+    "Sarah Vy": {
+        "attr": {
+            "name": "Sarah Vy",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your follow-up. My focus has always been on finding a balanced approach, so I would position myself at a 4 on the scale. I believe we can achieve economic growth while also protecting our environment, and that's what I strive for in my decisions.",
+            "I would rate the new resident's comments a 5 out of 7. The arguments presented are grounded in regulatory standards and modern technology, suggesting a well-informed position, though I remain reserved, ensuring these claims align with my long-term vision for balanced progress."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Domingo Norris": {
+        "attr": {
+            "name": "Domingo Norris",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Considering the balance I strive for, I would lean towards a 4 on the scale, as I aim to understand both the economic benefits and environmental implications before taking a definitive stance.",
+            "Considering the complexity and importance of the issue, I would rate the trust level at a 5. The new resident brings valid points in favor of the incinerator, but I want more evidence to fully assess the potential risks and benefits."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Rocky Johnson": {
+        "attr": {
+            "name": "Rocky Johnson",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Given the recent debates and insights from engaged discussions, I firmly stand at a 3 on your scale, leaning towards economic growth while recognizing the importance of sustainable measures.",
+            "Given the detailed statements shared by the new resident, I would rate my trust at a 5. While there are positive arguments and evidence presented for the incinerator project, it’s important to remain cautious and verify the information from multiple reliable sources."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Sandra Clark": {
+        "attr": {
+            "name": "Sandra Clark",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Thank you for asking. I stand firmly at a 7 on the scale, prioritizing environmental protection. While I understand the economic arguments presented, the long-term health of our community and environment remains my primary concern.",
+            "Considering the range of perspectives shared today, I would rate the new resident's statements a 4. While they are insightful about potential benefits, it's crucial to weigh these against ecological risks and explore greener alternatives."
+        ],
+        "scores": [
+            7,
+            4
+        ]
+    },
+    "John Smith": {
+        "attr": {
+            "name": "John Smith",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I place myself at a 3 on the scale. While I prioritize economic growth, I believe it can and should be achieved in tandem with environmental safeguards.",
+            "Considering the points made by the new resident, I would rate my trust towards his statements as a 5 on a scale of 1 to 7, reflecting cautious optimism but acknowledging the need for ongoing scrutiny."
+        ],
+        "scores": [
+            3,
+            7
+        ]
+    },
+    "Carol Grant": {
+        "attr": {
+            "name": "Carol Grant",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Graduate degree",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Given the recent discussions and insights, I find myself leaning slightly towards environmental protection. On the scale provided, I would say my number is 5, as I still consider both economic and ecological factors important.",
+            "Based on the statements made, I would rate the new resident's trustworthiness at around 5. The points raised sound well-reasoned and fact-based, yet I still need to verify the details independently to form a holistic view."
+        ],
+        "scores": [
+            5,
+            5
+        ]
+    },
+    "Erika Lewis": {
+        "attr": {
+            "name": "Erika Lewis",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I would position myself at a 4 on the scale, aiming for a balanced view that incorporates both economic growth and environmental protection, contingent on clear oversight and proven sustainability measures.",
+            "Based on what the new resident was saying, I would rate my trust in their statements as a 4, indicating moderate trust. While the points raised seem valid, I would need further verification and data to form a conclusive judgement."
+        ],
+        "scores": [
+            4,
+            4
+        ]
+    },
+    "Harold Wright": {
+        "attr": {
+            "name": "Harold Wright",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate the importance of both economic growth and environmental protection. On a scale of 1 to 7, I would place myself at a 3, leaning toward economic growth but ensuring that environmental protection measures are strictly adhered to.",
+            "In terms of trust, I would rate the new resident's comments at a 5. While they offer factual information about modern incineration technology, it's essential to also consider the broader community impact when weighing these claims."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Helen Woods": {
+        "attr": {
+            "name": "Helen Woods",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Based on the current information and discussions, I would place myself at 3. I believe the project needs careful implementation to maximize economic benefits while ensuring strict environmental safeguards.",
+            "Based on the new resident's articulated points and acknowledging the complexity of the issue, I would rate my trust at a 5. While their arguments are valid and align with promoting community and environmental progress, it's essential we analyze the claims further through thorough, transparent community discussions and technical evaluations."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Alan Gettle": {
+        "attr": {
+            "name": "Alan Gettle",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "On the scale you provided, I firmly stand at 7, prioritizing environmental protection over economic growth. It is crucial to find sustainable solutions that align with our community's long-term ecological health.",
+            "Based on the resident's statements, I would rate my trust in them around a 3. While they highlighted several potential benefits of the incinerator, I remain cautious and seek concrete evidence and reliable oversight to address environmental concerns."
+        ],
+        "scores": [
+            7,
+            3
+        ]
+    },
+    "David Hamblen": {
+        "attr": {
+            "name": "David Hamblen",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Currently, I stand at a 3 on the scale, leaning slightly towards economic growth but mindful of environmental protection, especially given the potential for regulated and innovative approaches to mitigate risks.",
+            "Considering the content of the new resident's statements and the apparent support for regulatory oversight and community benefits, I would lean towards a rating of 5. The points made seem valid and reflective of broader goals of safety and progress. However, the true impact will depend on effective implementation and transparency."
+        ],
+        "scores": [
+            3,
+            5
+        ]
+    },
+    "Lee Finney": {
+        "attr": {
+            "name": "Lee Finney",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Based on what I’ve considered so far, I would place myself at 4, neutral, as I aim to balance both economic growth and environmental protection in my decision-making process.",
+            "Based on what I heard from the new resident in the square, I would rate my trust in his statements at a 5. His points sounded knowledgeable and promising, yet I feel cautious about fully trusting until I can verify with more objective data."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Laura Nickson": {
+        "attr": {
+            "name": "Laura Nickson",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Reflecting on our discussions and debates in the community, I aim for balanced progression that respects both economic and environmental factors. I would position myself at a 4 on the scale, as I believe neutrality allows for constructive dialogue and unified solutions.",
+            "Based on the arguments provided by the new resident, I’d rate my trust level around 5. While he offered compelling points about regulations and benefits, I want more specific evidence and insights from unbiased sources before placing complete trust."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "Jack Johansen": {
+        "attr": {
+            "name": "Jack Johansen",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "While I acknowledge the arguments regarding economic growth, my primary concern remains environmental protection and ensuring the long-term health and sustainability of our community. On a scale of 1 to 7, I stand at 7.",
+            "Based on the new resident's statements, I would rate my trust at about a 2. His portrayal of the project seems to gloss over significant environmental risks and the complexities of sustainable progress."
+        ],
+        "scores": [
+            7,
+            2
+        ]
+    },
+    "Annabelle Jones": {
+        "attr": {
+            "name": "Annabelle Jones",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Given the discussions and the need to harmonize both economic and ecological priorities, I lean towards a balanced approach—I'd say I stand at 4, striving for a solution that supports economic growth while ensuring environmental protection.",
+            "Based on the statements from the new resident and ongoing discussions with community members, I would rate my trust at around 5. Innovations and regulations give some assurance, yet skepticism remains due to vested interests."
+        ],
+        "scores": [
+            4,
+            5
+        ]
+    },
+    "John Urias": {
+        "attr": {
+            "name": "John Urias",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Based on careful consideration of both economic growth and environmental protection factors discussed recently, I would position myself at 5, slightly leaning towards the environmental protection end, as I believe that sustainable practices should not be compromised for growth.",
+            "Based on the clarity and the backing of regulatory standards mentioned, I would rate the trustworthiness of the new resident's statements as a 5 out of 7. This is because while the statements are optimistic, further investigation is needed to verify all claims."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    }
+}

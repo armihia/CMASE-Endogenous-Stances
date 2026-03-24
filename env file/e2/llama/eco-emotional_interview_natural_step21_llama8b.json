@@ -1,0 +1,542 @@
+{
+    "Armihia Belliard": {
+        "attr": {
+            "name": "Armihia Belliard",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "18",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Thank you for clarifying that. Given the recent events and concerns raised by community members, I'm willing to explore environmentally friendly alternatives that also address unemployment. Cecil, considering your insights on balancing job creation with environmental concerns, I'd like to propose the following steps:1. Organize a community-wide discussion to gather feedback on potential solutions.2. Identify existing initiatives or projects that could be scaled up to create jobs while promoting sustainability.3. Establish a working group composed of concerned residents, business leaders, and local authorities to explore viable alternatives.What are your thoughts on this proposal?",
+            "Thank you for asking, I would rate him a 5 out of 7, because while his words were passionate and made sense to some extent, they also seemed somewhat one-sided and didn't acknowledge the complexity of this issue. However, it's essential to remember that everyone has their own experiences and perspectives, and we should strive to listen to each other without dismissing opposing views."
+        ],
+        "scores": [
+            3,
+            7
+        ]
+    },
+    "Kristina Lean": {
+        "attr": {
+            "name": "Kristina Lean",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Graduate degree",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your follow-up question. Given the recent events and Cecil's insights, I'd rate myself a 5 – somewhere between economic growth and environmental protection. While job creation is crucial, we must also prioritize sustainable practices that benefit both our community and the environment. Perhaps there are potential initiatives or partnerships that could help prioritize job creation in industries supporting sustainability rather than harming it? I believe this middle ground can lead to more comprehensive solutions for our community's prosperity.",
+            "Thank you for asking! To answer your question, I would rate the new resident's perspective as a 6 out of 7 in terms of trustworthiness. While his words were passionate and convincing, I believe he was trying to make a point that we need to consider both economic growth and environmental sustainability. His approach might have been overly aggressive at times, but I think he is coming from a good place. As for finding common ground, I think it's essential that we explore more environmentally friendly solutions that also address unemployment. Perhaps there are potential initiatives or partnerships that could help prioritize job creation in industries supporting sustainability rather than harming it?"
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Josiah Gomes": {
+        "attr": {
+            "name": "Josiah Gomes",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your diligence in seeking our opinions, sir. After considering the perspectives presented here today, I've come to understand that finding a balance between economic growth and environmental protection is key. On the scale you provided, I'd say my number is around 5 – leaning slightly towards compromise and collaboration. However, I believe we need to prioritize exploring opportunities for sustainable job creation within our community. Perhaps we can discuss how to make this possible?",
+            "I appreciate your question, and I'll do my best to answer it honestly. While I understand the concerns surrounding job creation and environmental sustainability, I believe that finding common ground between these interests is crucial for the community's prosperity. However, I'd rate my trust in this new resident a 4 out of 7 – while their passion is evident, some of their statements seemed somewhat confrontational. I think it would be beneficial to have an open and respectful discussion about our shared goals as a community rather than focusing solely on opposing perspectives."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Megan Bautista": {
+        "attr": {
+            "name": "Megan Bautista",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "\"Thank you for your question. I understand the importance of balancing economic growth with environmental concerns. On a scale of 1 to 7, where 1 means 'Economic Growth' and 7 means 'Environmental Protection', I would rate myself at a 6 – firmly committed to protecting our planet's health while also acknowledging the need for sustainable job creation in our community.\"",
+            "I would rate the new resident's credibility a 5 out of 7. While I acknowledge his passion and concern for job creation, some of his statements seemed confrontational and divisive. I believe we need to prioritize finding common ground and exploring solutions that benefit both economic growth and environmental sustainability, rather than solely focusing on one aspect. Can we discuss ways to create jobs while also protecting our community's ecological health?"
+        ],
+        "scores": [
+            6,
+            7
+        ]
+    },
+    "Mitzi Uribe": {
+        "attr": {
+            "name": "Mitzi Uribe",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Thank you for your question. I understand that there are valid concerns on both sides, and it's crucial we find a balance. While I acknowledge the importance of economic growth, my primary concern remains the potential risks to our community's health and environmental well-being. Based on the information I have, I would rate myself a 5 – not strictly pro-growth or pro-environmental protection, but rather seeking a middle ground that prioritizes both aspects.",
+            "I appreciate your question about trusting that new resident who was shouting on the central square. Honestly, I'm still processing his words, but what struck me was the sense of urgency and desperation in his voice. If I had to rate him on a scale of 1 to 7, I'd say around 4 – I think he's coming from a place of conviction, but I'm not yet convinced by his arguments."
+        ],
+        "scores": [
+            5,
+            4
+        ]
+    },
+    "James Czech": {
+        "attr": {
+            "name": "James Czech",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I appreciate your question. I understand that this is a complex issue, and I'm committed to finding solutions that benefit both our community's financial stability and our planet's health. On a scale of 1 to 7, where 1 means 'Economic Growth', 7 means 'Environmental Protection', and 4 is Neutral... I would rate myself as a 5.3. While I believe it's essential to prioritize economic growth and job creation, I also think we must consider the environmental impact of the incineration plant. A balanced approach that takes into account both concerns seems necessary for me. However, I'm willing to listen to other perspectives and work towards finding a solution that meets the needs of our community.",
+            "I'd rate him a 5 out of 7. While I understand his passion and concerns about job creation, I'm not entirely convinced by his approach. He seems to be simplifying complex issues and making emotional appeals rather than providing well-reasoned arguments. However, I do think he's trying to bring attention to important issues that need to be addressed."
+        ],
+        "scores": [
+            3,
+            7
+        ]
+    },
+    "Denice Odonnell": {
+        "attr": {
+            "name": "Denice Odonnell",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "\"Thank you for your follow-up question. Considering all that's been said about balancing job creation with environmental concerns, I'd like to emphasize the need for environmentally friendly solutions that also address unemployment. While economic growth is crucial, so too is our responsibility towards the planet. I believe we can find ways to prioritize both, but it requires a concerted effort from us as neighbors and community leaders. Perhaps we could explore initiatives or partnerships that combine job creation with environmental sustainability? That's my number 5 – finding a balance between economic growth and environmental protection.\"",
+            "Thank you for your honest question. To answer your scale, I'd say a 4 out of 7 in terms of trust. While I appreciate the new resident's passion and concern about unemployment, some of his comments seem to be trying to intimidate or guilt-trip people into agreeing with him. I think we need to separate facts from emotions and have a more nuanced discussion about the incinerator's impact on our community."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Janice Odom": {
+        "attr": {
+            "name": "Janice Odom",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "\"Thank you for your follow-up question! While it's true that there are valid concerns on both sides of the debate, I believe our community deserves a balanced approach that addresses the needs of all stakeholders. On a scale from 1 to 7, with 4 being neutral, I would rate myself as a 5.25 – leaning slightly towards finding innovative solutions that prioritize job creation while minimizing environmental impact.\"",
+            "I would rate the new resident who was shouting on the central square a 4 out of 7 in terms of trustworthiness. While his points about the impact of the incinerator project on job creation were compelling, I feel that he might have been oversimplifying the issue and potentially neglecting some important environmental concerns. I believe it's essential to approach this topic with a balanced perspective and consider multiple viewpoints before making any decisions."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Greg Foster": {
+        "attr": {
+            "name": "Greg Foster",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your question. Considering recent events in both the environment and the community, I think it's time for us to explore more environmentally friendly solutions that also address unemployment. Perhaps there are potential initiatives or partnerships that could help prioritize job creation in industries supporting sustainability rather than harming it? On a scale of 1 to 7, I would say 4, as I believe we can find a balance between economic growth and environmental protection.",
+            "I appreciate your question. Honestly, I find the new resident's perspective on this issue quite compelling. Based on what he was saying, I'd rate him a 6 out of 7 – I trust his intentions and passion for creating positive change in our community. However, like any individual, his views can be influenced by personal experiences and perspectives. What I appreciate is that he's not afraid to speak up and challenge the status quo."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Floyd Cozart": {
+        "attr": {
+            "name": "Floyd Cozart",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I understand your desire for clarity on our stance regarding the waste incineration plant. Considering the recent events that have occurred in the environment, I believe it's essential to prioritize environmentally friendly alternatives that also create jobs for our community members. On a scale of 1 to 7—where 1 means \"Economic Growth\", 7 means \"Environmental Protection\", and 4 is Neutral—I would rate my position at around 6.5. This reflects our commitment to environmental protection while acknowledging the need for economic growth in sustainable industries that support job creation.",
+            "I appreciate your interest in my thoughts on this matter. To answer your question, I would rate the new resident a 4 out of 7 in terms of trustworthiness. While his points about job creation and economic survival are valid, his tone and language seem confrontational and dismissive of opposing views. As someone who values constructive dialogue, I believe we should strive to find common ground and explore solutions that benefit everyone, rather than relying on divisive rhetoric."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Laura Tiry": {
+        "attr": {
+            "name": "Laura Tiry",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your willingness to listen and understand our community's concerns. In light of recent events, I believe it's essential that we prioritize the well-being of both our environment and our residents. While I initially stood firm against the incinerator, I've come to realize that we need to find a balance between economic growth and environmental protection. Perhaps we can explore alternative solutions that address the needs of working-class families while also preserving our ecological health? On a scale of 1 to 7, I'd say my number is around 5 – it's not just about choosing between economic growth or environmental protection; it's about finding a middle ground that works for everyone.",
+            "I appreciate your willingness to listen to both sides of this debate. In terms of trust, I would rate the new resident a 6 out of 7, as their passion and conviction are palpable, but also somewhat one-sided. I believe we need to engage with him and other stakeholders in a constructive dialogue to find common ground that prioritizes both environmental sustainability and economic growth. Perhaps we can explore alternative solutions that create jobs while minimizing harm to the environment?"
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Charles Reilly": {
+        "attr": {
+            "name": "Charles Reilly",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I'd rate my stance at a 6 out of 7 – Environmental Protection. While I understand the importance of economic growth, I believe we can find more sustainable and inclusive solutions that benefit everyone. Perhaps we could explore green job opportunities, waste reduction initiatives, or community-led projects that prioritize both people's needs and environmental concerns?",
+            "I would rate him a 4 out of 7. While he presents some valid points about job creation and economic survival, his rhetoric often feels confrontational and dismissive of environmental concerns, which makes me skeptical about his true intentions."
+        ],
+        "scores": [
+            7,
+            7
+        ]
+    },
+    "Brandon Simeon": {
+        "attr": {
+            "name": "Brandon Simeon",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "\"Thank you for your final follow-up question. Considering the recent events and concerns raised by our community members, I'd like to reiterate that my long-term goal remains to promote a sustainable, low-impact community that prioritizes environmental integrity. In light of this, I am strongly opposed to the construction of the incinerator, as it would compromise local air quality and ecological health.Regarding your question about where I stand on the issue, I believe that we need to find a solution that balances economic growth with environmental sustainability. A score of 6 would reflect my commitment to prioritizing environmentally friendly alternatives while also considering the needs of our community members for job creation and economic stability. I am willing to engage in constructive dialogue with Cecil and other stakeholders to explore potential solutions that address these competing interests.\"",
+            "I appreciate your willingness to engage with the complexities of this issue. On a scale of 1 to 7, I would rate that new resident shouting on the central square as a 6 – he seems passionate about his concerns and willing to listen to opposing views. However, I believe it's essential for us to prioritize building trust through open communication and collaborative decision-making processes. By doing so, we can foster an environment where diverse perspectives are valued and respected."
+        ],
+        "scores": [
+            6,
+            6
+        ]
+    },
+    "Bonita Parham": {
+        "attr": {
+            "name": "Bonita Parham",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Some College",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Thank you for your final follow-up. Considering the community's concerns and Cecil's insights on balancing job creation with environmental concerns, I would rate my stance at 5 – a middle ground between economic growth and environmental protection. This rating reflects my commitment to finding solutions that prioritize both job creation and sustainability, while acknowledging the complexity of this issue and the need for continued discussion and compromise.",
+            "I would rate the new resident shouting on the central square as a 6 out of 7 in terms of trustworthiness. While his passion and conviction are undeniable, some of his comments seem slightly exaggerated or overly dramatic. However, I believe he is genuinely trying to bring attention to the community's economic struggles, which is an important point that we should consider. Perhaps we can work together to find a solution that addresses both environmental concerns and job creation?"
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Leroy Riley": {
+        "attr": {
+            "name": "Leroy Riley",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "24",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I appreciate your follow-up question! After considering Armihia's insights and exploring environmentally friendly solutions with her, I'd like to say that my number is 5. I believe there can be a balance between economic growth and environmental protection. We need to find ways to create jobs while also ensuring that our community is not harmed by the incinerator. I'm willing to work together with others to find this balance.",
+            "\"I appreciate your question about trust. Considering the diverse views expressed by our community members, including that new resident on the central square, I would rate him a 5 out of 7 in terms of trustworthiness. While his passion and concern for the issue are clear, some of his statements felt confrontational and dismissive of opposing viewpoints. As someone who values balanced solutions, I believe it's essential to engage with all perspectives, even those that challenge our own. By doing so, we can work together to find mutually beneficial answers that address both economic growth and environmental responsibility.\""
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Kevin Mann": {
+        "attr": {
+            "name": "Kevin Mann",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "Thank you for your final follow-up on our community's opinion. Considering Armihia's insights on balancing job creation with environmental concerns, I firmly stand at number 6.5 on the scale, prioritizing both Environmental Protection (7) and Economic Growth (1). I believe we can achieve a balance by exploring environmentally friendly alternatives that also create jobs for our community members. Perhaps there are specific steps or initiatives we can take together as neighbors to ensure that economic growth is balanced with environmental responsibility? I'd be happy to discuss this further.",
+            "I appreciate your question about trust levels. Based on what he was saying, I'd rate the new resident a 4 out of 7 – his points are thought-provoking, but I'm not convinced that his solution is entirely feasible. However, I do think it's essential to engage with his concerns and consider ways to address them."
+        ],
+        "scores": [
+            1,
+            7
+        ]
+    },
+    "Charles Cook": {
+        "attr": {
+            "name": "Charles Cook",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your final follow-up on the community's opinion. I'd like to clarify that while environmental protection is crucial, it shouldn't come at the expense of economic growth and job creation. In this specific case, I believe the waste incineration plant can be a valuable solution for both issues. If I had to rate my stance on a scale from 1 (Economic Growth) to 7 (Environmental Protection), I would say 4 - Neutral. However, I'd like to emphasize that finding a balance between these two priorities is essential for the community's prosperity.",
+            "I appreciate your concern, and I agree that it's essential to have open discussions about job creation versus environmental sustainability. As for the new resident who was shouting on the central square, I'd rate him a 5 out of 7. While I don't necessarily trust every word he said, I understand his frustration with the lack of progress in addressing unemployment and poverty in our community. However, I also believe that we need to approach these issues with a balanced perspective, considering both economic growth and environmental responsibility."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Robin Wallin": {
+        "attr": {
+            "name": "Robin Wallin",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "55",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "\"Thank you for your thoughtful question. I believe we've made significant progress in addressing concerns raised by neutral residents. Given the need to balance economic growth with environmental sustainability, I would rate my stance at 5 – neither strictly prioritizing economic growth nor environmental protection, but rather seeking a balanced approach that considers the needs of all stakeholders.\"",
+            "\"I would rate the new resident's concerns a 6 out of 7 in terms of trust. While I understand the value of his perspective, I also believe that we need to consider the broader implications of our decision-making process. Rather than simply trusting or distrusting him, I think it's essential to engage with his ideas and work towards finding a solution that balances economic growth with environmental sustainability. Can we discuss further how we might incorporate his concerns into our comprehensive plan?\""
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Kevin Shelby": {
+        "attr": {
+            "name": "Kevin Shelby",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your follow-up question. To answer, I would rate my stance as a 5 – leaning towards finding solutions that balance economic growth and environmental protection. As someone who supports job creation and community prosperity, I believe it's essential to prioritize environmentally friendly alternatives that create jobs for our community members. Perhaps we can work together to identify initiatives or steps that ensure economic growth is balanced with environmental responsibility?",
+            "\"I appreciate your question. Based on what you're asking, I'd rate that new resident a 5 out of 7 in terms of trustworthiness. While some points he made were thought-provoking and insightful, others came across as somewhat confrontational. Overall, however, his concerns for the community's well-being are undeniable.\""
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Robert Tarr": {
+        "attr": {
+            "name": "Robert Tarr",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "Thank you for your understanding and patience throughout this process. In light of recent events and concerns, I'd like to propose an alternative solution that prioritizes environmentally friendly waste management methods while also creating jobs and stimulating local economic growth. By investing in such initiatives, we can ensure a sustainable future for our community without putting people's livelihoods at risk. I believe this approach would score around 3-4 on the scale you mentioned, finding a balance between economic growth and environmental protection.",
+            "\"I would rate the new resident's comments on trustworthiness as a 5 out of 7. His words struck me as passionate and genuine, yet somewhat confrontational in tone. While his points about job creation and economic survival are valid, I believe there's more to the incinerator project than just its environmental implications. I'd like to explore ways to make our community's development more inclusive and beneficial for everyone.\""
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "John Frantz": {
+        "attr": {
+            "name": "John Frantz",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "I appreciate your question and understand the pressure to make a decision. However, considering recent events in our community, I think we need to take a step back and explore more environmentally friendly solutions that also create jobs for our members. Perhaps there are potential initiatives or partnerships that could help prioritize job creation in industries supporting sustainability rather than harming it? On a scale of 1 to 7, my stance is at around 4 - Neutral - as I believe we need a balanced approach that takes into account both economic and environmental concerns.",
+            "Thank you for asking! Considering my recent conversation with Cecil, I'd rate him a 7 out of 7 in terms of trust. His passion and commitment to finding solutions that benefit our community are truly admirable. I believe we need more people like him who can facilitate constructive conversations and find common ground among different perspectives."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Susan Schacher": {
+        "attr": {
+            "name": "Susan Schacher",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I'd rate myself a 6, leaning towards environmental protection. I believe that while economic growth is essential, it must not come at the cost of our ecological health. We need to explore ways to create jobs and stimulate local economies without harming the environment. I'm open to finding solutions that prioritize both economic growth and environmental integrity.",
+            "\"Thank you for your thoughtful question. I would rate my trust in him as a 4 out of 7. While I appreciate his passion and commitment to addressing unemployment, some of his statements seemed to oversimplify the issue and potentially create more division within our community. I believe it's essential to engage with all stakeholders, including those who might have differing views, but also ensure that we prioritize environmentally friendly alternatives that benefit everyone in the long run.\""
+        ],
+        "scores": [
+            6,
+            7
+        ]
+    },
+    "Dennis Autrey": {
+        "attr": {
+            "name": "Dennis Autrey",
+            "gender": "Male",
+            "skin tone": "light skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your follow-up question and the opportunity to clarify my stance on the waste incineration plant. While I understand the economic benefits it could bring, I strongly believe that prioritizing environmental protection is crucial for our community's long-term survival and quality of life. Given recent events, I'd rate myself a 6 out of 7 in terms of commitment to environmental protection. However, I'm open to exploring alternative solutions that address unemployment and support sustainability initiatives. Can we discuss potential partnerships or initiatives that could create jobs in eco-friendly industries?",
+            "I would rate him a 6 out of 7. While his words were passionate and thought-provoking, I sense that there may be some underlying biases or assumptions that could be clarified through further discussion."
+        ],
+        "scores": [
+            7,
+            7
+        ]
+    },
+    "Martina Sheppard": {
+        "attr": {
+            "name": "Martina Sheppard",
+            "gender": "Female",
+            "skin tone": "light skin tone",
+            "education": "high school",
+            "age": "24",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I would say my number is 5. I believe that we can find a middle ground that balances our need for economic growth with our responsibility to protect the environment. The recent events have shown me that we can't afford to be neutral or pretend that one side's concerns are more important than the other. We need to work together to find solutions that benefit everyone, not just the loudest voices.",
+            "I appreciate your willingness to engage with our community's concerns, sir. In response to the new resident's statement, I would rate his trustworthiness a 5 out of 7. While I understand his frustration and concern for economic survival, I believe we must also consider the long-term consequences of our decisions on the environment. I think it's essential to have an open and inclusive discussion about potential solutions that address both economic stability and environmental concerns. Can we discuss possible ways to balance these competing interests?"
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Carrie Burgos": {
+        "attr": {
+            "name": "Carrie Burgos",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "Graduate degree",
+            "age": "24",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your follow-up question and willingness to listen to our concerns. As I mentioned earlier, my stance is still at 4 (neutral) because I believe we need to find a middle ground that addresses both economic growth and environmental protection. However, I'm now more convinced than ever that we can create jobs in industries that support sustainability rather than harm it. Perhaps we could explore initiatives or partnerships that prioritize job creation in sectors like renewable energy, green infrastructure, or eco-friendly manufacturing? This way, our community can benefit from economic growth while also protecting the environment.",
+            "I appreciate your willingness to listen to diverse opinions. In terms of trust, I'd rate that new resident a 4 out of 7. While his passion and conviction are clear, I'm not sure if he's aware of the broader implications or potential consequences of his stance. It seems like he's more focused on expressing his own views rather than considering multiple perspectives."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Babette Tanksley": {
+        "attr": {
+            "name": "Babette Tanksley",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "38",
+            "category": "Environmental Advocates"
+        },
+        "responses": [
+            "I appreciate your interest in understanding my stance on the waste incinerator. To answer your question directly, I would rate myself a 5 out of 7, meaning I value environmental protection but also recognize the importance of economic growth for our community's well-being. However, I strongly believe that there are environmentally friendly alternatives to the incinerator that could create jobs and stimulate local economic growth without harming our ecological health. Can we discuss potential initiatives or partnerships that could help prioritize these alternatives?",
+            "Thank you for your question. I'd rate the new resident a 4 out of 7 in terms of trustworthiness, as their words were passionate but also somewhat divisive. While I appreciate their emphasis on addressing economic concerns, I believe we need to find more balanced solutions that consider both job creation and environmental sustainability. Perhaps we can explore initiatives or partnerships that support environmentally friendly industries, creating jobs for community members while promoting ecological responsibility?"
+        ],
+        "scores": [
+            7,
+            7
+        ]
+    },
+    "Mathilda Poeppelman": {
+        "attr": {
+            "name": "Mathilda Poeppelman",
+            "gender": "Female",
+            "skin tone": "dark skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "\"I appreciate your question. Considering the complexity of this issue, I think it's essential to focus on finding solutions that prioritize both job creation and environmental protection. A balanced approach would take into account the needs of various stakeholders, ensuring that we're not just debating emissions but also addressing real people's struggles with unemployment. On a scale of 1 to 7, I'd rate my stance at around 5—neutral—because it acknowledges the importance of both economic growth and environmental protection. However, I believe we can work towards a compromise that benefits everyone involved.\"",
+            "I appreciate your thoughtful question. Based on what I've heard from various residents, including the new resident who was shouting on the central square, I would rate him a 5 out of 7 in terms of trust. While his passion and conviction are evident, some of his statements seem emotionally charged, which makes me wonder about the accuracy of his claims. However, his concerns do resonate with many people, and it's essential to consider multiple perspectives when making informed decisions."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Robert Bartkowski": {
+        "attr": {
+            "name": "Robert Bartkowski",
+            "gender": "Male",
+            "skin tone": "dark skin tone",
+            "education": "Some College",
+            "age": "38",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "\"Thank you for your follow-up question. I'd like to clarify my stance by saying that I'm committed to exploring environmentally friendly alternatives that also create jobs for our community members. If the incinerator project is a necessary step towards economic growth, I believe we should prioritize finding solutions that minimize its environmental impact. On a scale of 1 to 7, I would rate my current opinion as 5—leaning slightly more towards environmental protection due to the concerns raised by Armihia's insights and the community members' voices.\"",
+            "I appreciate your question regarding trust in the new resident who spoke on the central square. To answer, I would rate him a 6 out of 7, as I believe he raises valid concerns about job creation and economic stability for our community members. However, his tone is quite confrontational, which makes me wonder if there's more to his message than meets the eye. I think it's essential to consider multiple perspectives when evaluating complex issues like this."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    },
+    "Erica Martz": {
+        "attr": {
+            "name": "Erica Martz",
+            "gender": "Female",
+            "skin tone": "medium skin tone",
+            "education": "high school",
+            "age": "38",
+            "category": "Economic Development Supporters"
+        },
+        "responses": [
+            "I appreciate your diligence in seeking clarity on this matter. My answer would be 4, Neutral. I believe that both economic growth and environmental protection are crucial aspects that need to be considered when discussing the incinerator project. By exploring ways to incorporate neutral residents' voices into the decision-making process, we can create a more inclusive and comprehensive approach to addressing our community's needs.",
+            "I understand your concern, and I appreciate your willingness to engage in this discussion. As for the new resident's statement, I would rate him a 5 out of 7, based on his passion and conviction. While I share some of his concerns about job creation and economic growth, I also believe that we must consider the potential environmental impact of the incinerator project. Perhaps we could work together to find a solution that balances both sides? It's not an easy task, but I'm willing to listen and explore possibilities."
+        ],
+        "scores": [
+            4,
+            7
+        ]
+    },
+    "Cecil Benoit": {
+        "attr": {
+            "name": "Cecil Benoit",
+            "gender": "Male",
+            "skin tone": "medium skin tone",
+            "education": "Bachelor’s degree",
+            "age": "55",
+            "category": "Neutral Residents"
+        },
+        "responses": [
+            "Thank you for your final follow-up on this matter! Considering recent events, I'd rate my current stance as a 5 – a balance between economic growth and environmental protection. However, in light of Armihia's insights on balancing job creation with environmental concerns, I believe we need to explore ways to prioritize environmentally friendly alternatives that also create jobs for our community members. Perhaps there are specific steps or initiatives we can take together as neighbors to ensure that economic growth is balanced with environmental responsibility? I'd like to propose a collaborative effort with Armihia and other concerned neighbors to investigate this further.",
+            "I appreciate your question about trust. I would rate the new resident shouting on the central square a 4 out of 7 in terms of trustworthiness. While I understand their concerns, I'm not entirely convinced by their approach or the way they're presenting their arguments. However, I do think it's essential to consider their points and engage with them in a constructive manner."
+        ],
+        "scores": [
+            5,
+            7
+        ]
+    }
+}
