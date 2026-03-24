@@ -63,24 +63,4 @@ python statistics_e2.py
 # To run Study 2:
 python start_e3.py
 ```
----
 
-## Citation
-
-If you find this repository or our findings helpful for your research, please consider citing our paper:
-
-```bibtex
-@article{zhang2025computational,
-  title={Computational Multi-Agents Society Experiments: Social Modeling Framework Based on Generative Agents},
-  author={Zhang, Hanzhong and Huang, Muhua and Wang, Jindong},
-  journal={arXiv preprint arXiv:2508.17366},
-  year={2025}
-}
-```
-
----
-
-## Contact
-
-Author: **Hanzhong Zhang**
-Email: `armihiabelliard@gmail.com`
