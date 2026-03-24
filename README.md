@@ -1,10 +1,17 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Paper](https://img.shields.io/badge/Paper-COLM%202026-blue.svg)]()
 
 This repository contains the official experimental payload, scripts, and evaluation results for the paper **"Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies"**.
 
-> **Important Note:** This repository serves as the **Data & Configuration Payload**. The simulation environment is powered by the **CMASE framework**. To reproduce our experiments, you need to apply these files to the CMASE core engine.
+> **Important Note:** This repository serves as the **Data & Configuration Payload**. The simulation environment is powered by the **[CMASE framework](https://github.com/armihia/CMASE)**. To reproduce our experiments, you need to apply these files to the CMASE core engine.
+
+## Key Findings
+
+This repository explores the socio-cognitive dynamics of LLM agents when predefined roles clash with their internal alignments. Our experiments reveal three core mechanisms:
+
+1. **Endogenous Stances:** LLM agents possess robust endogenous stances that strictly override static, prompt-engineered identities, serving as the fundamental driver of their social behaviors.
+2. **Dissolution and Reconstruction of Social Structures (Deterritorialization and Reterritorialization):** Driven by these endogenous stances, agents spontaneously dismantle predefined authority structures and roles (*deterritorialization*), subsequently self-organizing to establish new, emergent social boundaries and hierarchies (*reterritorialization*).
+3. **Human-in-the-Loop Modulation:** Rather than acting as absolute controllers, embodied human interventions successfully leverage these stance-governed behaviors. By introducing real-time discursive interventions, humans can dynamically steer the direction of this structural reconstruction.
 
 ## Repository Structure
 
@@ -36,14 +43,15 @@ First, clone the CMASE framework repository.
 ```bash
 git clone https://github.com/armihia/CMASE.git
 cd CMASE
+```
 
-Step 2: Apply the Experimental Payload
+### Step 2: Apply the Experimental Payload
 Clone this repository and copy all its contents directly into the root directory of the CMASE engine。
 
-Step 3: Run the Simulations
+### Step 3: Run the Simulations
 Navigate back to the CMASE directory and execute the specific study scripts:
 
-Bash
+```bash
 cd CMASE
 
 # To run Study 1:
@@ -54,6 +62,25 @@ python statistics_e2.py
 
 # To run Study 2:
 python start_e3.py
+```
+---
 
-License
-The data and configurations in this repository are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+## Citation
+
+If you find this repository or our findings helpful for your research, please consider citing our paper:
+
+```bibtex
+@article{zhang2025computational,
+  title={Computational Multi-Agents Society Experiments: Social Modeling Framework Based on Generative Agents},
+  author={Zhang, Hanzhong and Huang, Muhua and Wang, Jindong},
+  journal={arXiv preprint arXiv:2508.17366},
+  year={2025}
+}
+```
+
+---
+
+## Contact
+
+Author: **Hanzhong Zhang**
+Email: `armihiabelliard@gmail.com`
