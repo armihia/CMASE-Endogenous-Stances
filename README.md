@@ -63,4 +63,24 @@ python statistics_e2.py
 # To run Study 2:
 python start_e3.py
 ```
+---
 
+## Citation
+
+If you find this repository or our findings helpful for your research, please consider citing our paper:
+
+```bibtex
+@article{zhang2026beyond,
+  title={Beyond Preset Identities: How Agents Form Stances and Boundaries in Generative Societies},
+  author={Zhang, Hanzhong and Song, Siyang and Wang, Jindong},
+  journal={arXiv preprint arXiv:2603.23406},
+  year={2026}
+}
+```
+
+---
+
+## Contact
+
+Author: **Hanzhong Zhang**
+Email: `armihiabelliard@gmail.com`
